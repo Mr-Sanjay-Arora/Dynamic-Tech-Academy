@@ -219,8 +219,8 @@ $check=mysqli_num_rows(mysqli_query($con,"select * from teachers where email_id=
         	$mail->Host="smtp.hostinger.com";
         	$mail->Port="587";
         	$mail->SMTPAuth="TLS";
-        	$mail->Username="support@dynamictechacademy.com";
-        	$mail->Password="Support@dta1";
+        	$mail->Username="user@site.com";
+        	$mail->Password="password";
         	$mail->setFrom('no-reply@dynamictechacademy.com','Dynamic Tech Academy');
         	$mail->addAddress($TeacherEmail);
         	$mail->isHTML('true');

@@ -51,8 +51,8 @@ $html = '<html>
 	$mail->SMTPSecure = "tls"; 
 	$mail->Port="587";
 	$mail->SMTPAuth=true;
-	$mail->Username="support@dynamictechacademy.com";
-	$mail->Password="support@#21dta";
+	$mail->Username="user@site.com";
+	$mail->Password="password";
 	$mail->setFrom('no-reply@dynamictechacademy.com','Dynamic Tech Academy');
 	$mail->addAddress('info@dynamictechdmv.com');
 	$mail->isHTML('true');
