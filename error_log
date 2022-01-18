@@ -1,0 +1,71 @@
+[24-Nov-2021 22:53:44 Asia/Kolkata] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'u789016811_dtadmin'@'localhost' (using password: YES) in /home/cloudy24demo/public_html/env/database.php on line 8
+[24-Nov-2021 22:53:44 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/cloudy24demo/public_html/index.php on line 48
+[24-Nov-2021 22:53:44 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/cloudy24demo/public_html/index.php on line 221
+[24-Nov-2021 22:53:44 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/cloudy24demo/public_html/index.php on line 222
+[24-Nov-2021 22:53:44 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/cloudy24demo/public_html/index.php on line 263
+[24-Nov-2021 22:53:44 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/cloudy24demo/public_html/index.php on line 264
+[24-Nov-2021 22:54:03 Asia/Kolkata] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'u789016811_dtadmin'@'localhost' (using password: YES) in /home/cloudy24demo/public_html/env/database.php on line 8
+[24-Nov-2021 22:54:03 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/cloudy24demo/public_html/index.php on line 221
+[24-Nov-2021 22:54:03 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/cloudy24demo/public_html/index.php on line 222
+[24-Nov-2021 22:54:03 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/cloudy24demo/public_html/index.php on line 263
+[24-Nov-2021 22:54:03 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/cloudy24demo/public_html/index.php on line 264
+[24-Nov-2021 22:55:11 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/cloudy24demo/public_html/index.php on line 222
+[24-Nov-2021 22:55:11 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/cloudy24demo/public_html/index.php on line 264
+[26-Nov-2021 17:46:25 Asia/Kolkata] PHP Notice:  Undefined index: course_url in /home/cloudy24demo/public_html/aws-devops.php on line 9
+[26-Nov-2021 17:46:25 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/cloudy24demo/public_html/aws-devops.php on line 76
+[26-Nov-2021 17:49:25 Asia/Kolkata] PHP Notice:  Undefined index: course_url in /home/cloudy24demo/public_html/aws-devops.php on line 9
+[26-Nov-2021 17:49:25 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/cloudy24demo/public_html/aws-devops.php on line 76
+[29-Nov-2021 15:36:52 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/cloudy24demo/public_html/linux-admin.php on line 208
+[29-Nov-2021 15:36:52 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/cloudy24demo/public_html/linux-admin.php on line 208
+[29-Nov-2021 19:45:43 Asia/Kolkata] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'cloudy24demo_dtacademy'@'localhost' (using password: YES) in /home/dynamict/public_html/env/database.php on line 8
+[29-Nov-2021 19:45:43 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/dynamict/public_html/index.php on line 48
+[29-Nov-2021 19:45:43 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/dynamict/public_html/index.php on line 221
+[29-Nov-2021 19:45:43 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/dynamict/public_html/index.php on line 222
+[29-Nov-2021 19:45:43 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/dynamict/public_html/index.php on line 263
+[29-Nov-2021 19:45:43 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/dynamict/public_html/index.php on line 264
+[29-Nov-2021 19:46:50 Asia/Kolkata] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'cloudy24demo_dtacademy'@'localhost' (using password: YES) in /home/dynamict/public_html/env/database.php on line 8
+[29-Nov-2021 19:46:50 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/dynamict/public_html/index.php on line 221
+[29-Nov-2021 19:46:50 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/dynamict/public_html/index.php on line 222
+[29-Nov-2021 19:46:50 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/dynamict/public_html/index.php on line 263
+[29-Nov-2021 19:46:50 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/dynamict/public_html/index.php on line 264
+[29-Nov-2021 19:48:47 Asia/Kolkata] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'academydbuser'@'localhost' (using password: YES) in /home/dynamict/public_html/env/database.php on line 8
+[29-Nov-2021 19:48:47 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/dynamict/public_html/index.php on line 221
+[29-Nov-2021 19:48:47 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/dynamict/public_html/index.php on line 222
+[29-Nov-2021 19:48:47 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/dynamict/public_html/index.php on line 263
+[29-Nov-2021 19:48:47 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/dynamict/public_html/index.php on line 264
+[29-Nov-2021 19:49:47 Asia/Kolkata] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'academydbuser'@'localhost' (using password: YES) in /home/dynamict/public_html/env/database.php on line 8
+[29-Nov-2021 19:49:47 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/dynamict/public_html/index.php on line 221
+[29-Nov-2021 19:49:47 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/dynamict/public_html/index.php on line 222
+[29-Nov-2021 19:49:47 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/dynamict/public_html/index.php on line 263
+[29-Nov-2021 19:49:47 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/dynamict/public_html/index.php on line 264
+[29-Nov-2021 19:50:13 Asia/Kolkata] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'academydbuser'@'localhost' (using password: YES) in /home/dynamict/public_html/env/database.php on line 8
+[29-Nov-2021 19:50:13 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/dynamict/public_html/index.php on line 221
+[29-Nov-2021 19:50:13 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/dynamict/public_html/index.php on line 222
+[29-Nov-2021 19:50:13 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/dynamict/public_html/index.php on line 263
+[29-Nov-2021 19:50:13 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/dynamict/public_html/index.php on line 264
+[29-Nov-2021 19:50:44 Asia/Kolkata] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'academydbuser'@'localhost' (using password: YES) in /home/dynamict/public_html/env/database.php on line 8
+[29-Nov-2021 19:50:44 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/dynamict/public_html/index.php on line 221
+[29-Nov-2021 19:50:44 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/dynamict/public_html/index.php on line 222
+[29-Nov-2021 19:50:44 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/dynamict/public_html/index.php on line 263
+[29-Nov-2021 19:50:44 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/dynamict/public_html/index.php on line 264
+[29-Nov-2021 19:51:19 Asia/Kolkata] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'academydbuser'@'localhost' (using password: YES) in /home/dynamict/public_html/env/database.php on line 8
+[29-Nov-2021 19:51:19 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/dynamict/public_html/index.php on line 221
+[29-Nov-2021 19:51:19 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/dynamict/public_html/index.php on line 222
+[29-Nov-2021 19:51:19 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/dynamict/public_html/index.php on line 263
+[29-Nov-2021 19:51:19 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/dynamict/public_html/index.php on line 264
+[02-Dec-2021 18:08:19 Asia/Kolkata] PHP Warning:  session_start(): open(/opt/alt/php74/var/lib/php/session2/sess_706950791acc56e6d2b641696609e60c, O_RDWR) failed: No such file or directory (2) in /home/dynamict/public_html/404.php on line 3
+[02-Dec-2021 18:08:19 Asia/Kolkata] PHP Warning:  session_start(): Failed to read session data: files (path: /opt/alt/php74/var/lib/php/session2) in /home/dynamict/public_html/404.php on line 3
+[02-Dec-2021 18:52:04 Asia/Kolkata] PHP Warning:  session_start(): open(/opt/alt/php74/var/lib/php/session2/sess_cfe4f858a00d494a1a72889d5c1a5c26, O_RDWR) failed: No such file or directory (2) in /home/dynamict/public_html/404.php on line 3
+[02-Dec-2021 18:52:05 Asia/Kolkata] PHP Warning:  session_start(): Failed to read session data: files (path: /opt/alt/php74/var/lib/php/session2) in /home/dynamict/public_html/404.php on line 3
+[02-Dec-2021 18:52:12 Asia/Kolkata] PHP Warning:  session_start(): open(/opt/alt/php74/var/lib/php/session2/sess_cfe4f858a00d494a1a72889d5c1a5c26, O_RDWR) failed: No such file or directory (2) in /home/dynamict/public_html/404.php on line 3
+[02-Dec-2021 18:52:12 Asia/Kolkata] PHP Warning:  session_start(): Failed to read session data: files (path: /opt/alt/php74/var/lib/php/session2) in /home/dynamict/public_html/404.php on line 3
+[02-Dec-2021 18:52:16 Asia/Kolkata] PHP Warning:  session_start(): open(/opt/alt/php74/var/lib/php/session2/sess_cfe4f858a00d494a1a72889d5c1a5c26, O_RDWR) failed: No such file or directory (2) in /home/dynamict/public_html/404.php on line 3
+[02-Dec-2021 18:52:16 Asia/Kolkata] PHP Warning:  session_start(): Failed to read session data: files (path: /opt/alt/php74/var/lib/php/session2) in /home/dynamict/public_html/404.php on line 3
+[02-Dec-2021 18:52:57 Asia/Kolkata] PHP Warning:  session_start(): open(/opt/alt/php74/var/lib/php/session2/sess_cfe4f858a00d494a1a72889d5c1a5c26, O_RDWR) failed: No such file or directory (2) in /home/dynamict/public_html/404.php on line 3
+[02-Dec-2021 18:52:57 Asia/Kolkata] PHP Warning:  session_start(): Failed to read session data: files (path: /opt/alt/php74/var/lib/php/session2) in /home/dynamict/public_html/404.php on line 3
+[04-Dec-2021 01:00:27 Asia/Kolkata] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'dynamict_academydbuser'@'localhost' (using password: YES) in /home/dynamict/public_html/env/database.php on line 8
+[04-Dec-2021 01:00:27 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/dynamict/public_html/index.php on line 48
+[04-Dec-2021 01:00:27 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/dynamict/public_html/index.php on line 221
+[04-Dec-2021 01:00:27 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/dynamict/public_html/index.php on line 222
+[04-Dec-2021 01:00:27 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/dynamict/public_html/index.php on line 263
+[04-Dec-2021 01:00:27 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/dynamict/public_html/index.php on line 264

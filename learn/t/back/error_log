@@ -1,0 +1,845 @@
+[03-Dec-2021 18:54:20 Asia/Kolkata] PHP Warning:  include(../../env/database.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 5
+[03-Dec-2021 18:54:20 Asia/Kolkata] PHP Warning:  include(../../env/database.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 5
+[03-Dec-2021 18:54:20 Asia/Kolkata] PHP Warning:  include(): Failed opening '../../env/database.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 5
+[03-Dec-2021 18:54:20 Asia/Kolkata] PHP Warning:  include(../../env/constants.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 6
+[03-Dec-2021 18:54:20 Asia/Kolkata] PHP Warning:  include(../../env/constants.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 6
+[03-Dec-2021 18:54:20 Asia/Kolkata] PHP Warning:  include(): Failed opening '../../env/constants.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 6
+[03-Dec-2021 18:54:20 Asia/Kolkata] PHP Warning:  include(../../env/functions.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 7
+[03-Dec-2021 18:54:20 Asia/Kolkata] PHP Warning:  include(../../env/functions.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 7
+[03-Dec-2021 18:54:20 Asia/Kolkata] PHP Warning:  include(): Failed opening '../../env/functions.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 7
+[03-Dec-2021 18:54:20 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function get_safe_value() in /home/dynamict/public_html/learn/t/back/teacher_login.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 9
+[03-Dec-2021 18:54:30 Asia/Kolkata] PHP Warning:  include(../../env/database.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 5
+[03-Dec-2021 18:54:30 Asia/Kolkata] PHP Warning:  include(../../env/database.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 5
+[03-Dec-2021 18:54:30 Asia/Kolkata] PHP Warning:  include(): Failed opening '../../env/database.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 5
+[03-Dec-2021 18:54:30 Asia/Kolkata] PHP Warning:  include(../../env/constants.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 6
+[03-Dec-2021 18:54:30 Asia/Kolkata] PHP Warning:  include(../../env/constants.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 6
+[03-Dec-2021 18:54:30 Asia/Kolkata] PHP Warning:  include(): Failed opening '../../env/constants.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 6
+[03-Dec-2021 18:54:30 Asia/Kolkata] PHP Warning:  include(../../env/functions.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 7
+[03-Dec-2021 18:54:30 Asia/Kolkata] PHP Warning:  include(../../env/functions.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 7
+[03-Dec-2021 18:54:30 Asia/Kolkata] PHP Warning:  include(): Failed opening '../../env/functions.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 7
+[03-Dec-2021 18:54:30 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function get_safe_value() in /home/dynamict/public_html/learn/t/back/teacher_login.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 9
+[03-Dec-2021 18:54:37 Asia/Kolkata] PHP Warning:  include(../../env/database.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 5
+[03-Dec-2021 18:54:37 Asia/Kolkata] PHP Warning:  include(../../env/database.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 5
+[03-Dec-2021 18:54:37 Asia/Kolkata] PHP Warning:  include(): Failed opening '../../env/database.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 5
+[03-Dec-2021 18:54:37 Asia/Kolkata] PHP Warning:  include(../../env/constants.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 6
+[03-Dec-2021 18:54:37 Asia/Kolkata] PHP Warning:  include(../../env/constants.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 6
+[03-Dec-2021 18:54:37 Asia/Kolkata] PHP Warning:  include(): Failed opening '../../env/constants.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 6
+[03-Dec-2021 18:54:37 Asia/Kolkata] PHP Warning:  include(../../env/functions.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 7
+[03-Dec-2021 18:54:37 Asia/Kolkata] PHP Warning:  include(../../env/functions.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 7
+[03-Dec-2021 18:54:37 Asia/Kolkata] PHP Warning:  include(): Failed opening '../../env/functions.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 7
+[03-Dec-2021 18:54:37 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function get_safe_value() in /home/dynamict/public_html/learn/t/back/teacher_login.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 9
+[03-Dec-2021 18:54:38 Asia/Kolkata] PHP Warning:  include(../../env/database.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 5
+[03-Dec-2021 18:54:38 Asia/Kolkata] PHP Warning:  include(../../env/database.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 5
+[03-Dec-2021 18:54:38 Asia/Kolkata] PHP Warning:  include(): Failed opening '../../env/database.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 5
+[03-Dec-2021 18:54:38 Asia/Kolkata] PHP Warning:  include(../../env/constants.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 6
+[03-Dec-2021 18:54:38 Asia/Kolkata] PHP Warning:  include(../../env/constants.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 6
+[03-Dec-2021 18:54:38 Asia/Kolkata] PHP Warning:  include(): Failed opening '../../env/constants.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 6
+[03-Dec-2021 18:54:38 Asia/Kolkata] PHP Warning:  include(../../env/functions.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 7
+[03-Dec-2021 18:54:38 Asia/Kolkata] PHP Warning:  include(../../env/functions.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 7
+[03-Dec-2021 18:54:38 Asia/Kolkata] PHP Warning:  include(): Failed opening '../../env/functions.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 7
+[03-Dec-2021 18:54:38 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function get_safe_value() in /home/dynamict/public_html/learn/t/back/teacher_login.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 9
+[03-Dec-2021 18:55:09 Asia/Kolkata] PHP Warning:  include(../../env/database.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 5
+[03-Dec-2021 18:55:09 Asia/Kolkata] PHP Warning:  include(../../env/database.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 5
+[03-Dec-2021 18:55:09 Asia/Kolkata] PHP Warning:  include(): Failed opening '../../env/database.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 5
+[03-Dec-2021 18:55:09 Asia/Kolkata] PHP Warning:  include(../../env/constants.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 6
+[03-Dec-2021 18:55:09 Asia/Kolkata] PHP Warning:  include(../../env/constants.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 6
+[03-Dec-2021 18:55:09 Asia/Kolkata] PHP Warning:  include(): Failed opening '../../env/constants.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 6
+[03-Dec-2021 18:55:09 Asia/Kolkata] PHP Warning:  include(../../env/functions.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 7
+[03-Dec-2021 18:55:09 Asia/Kolkata] PHP Warning:  include(../../env/functions.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 7
+[03-Dec-2021 18:55:09 Asia/Kolkata] PHP Warning:  include(): Failed opening '../../env/functions.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 7
+[03-Dec-2021 18:55:09 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function get_safe_value() in /home/dynamict/public_html/learn/t/back/teacher_login.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 9
+[03-Dec-2021 18:55:11 Asia/Kolkata] PHP Warning:  include(../../env/database.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 5
+[03-Dec-2021 18:55:11 Asia/Kolkata] PHP Warning:  include(../../env/database.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 5
+[03-Dec-2021 18:55:11 Asia/Kolkata] PHP Warning:  include(): Failed opening '../../env/database.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 5
+[03-Dec-2021 18:55:11 Asia/Kolkata] PHP Warning:  include(../../env/constants.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 6
+[03-Dec-2021 18:55:11 Asia/Kolkata] PHP Warning:  include(../../env/constants.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 6
+[03-Dec-2021 18:55:11 Asia/Kolkata] PHP Warning:  include(): Failed opening '../../env/constants.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 6
+[03-Dec-2021 18:55:11 Asia/Kolkata] PHP Warning:  include(../../env/functions.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 7
+[03-Dec-2021 18:55:11 Asia/Kolkata] PHP Warning:  include(../../env/functions.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 7
+[03-Dec-2021 18:55:11 Asia/Kolkata] PHP Warning:  include(): Failed opening '../../env/functions.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 7
+[03-Dec-2021 18:55:11 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function get_safe_value() in /home/dynamict/public_html/learn/t/back/teacher_login.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 9
+[03-Dec-2021 18:55:11 Asia/Kolkata] PHP Warning:  include(../../env/database.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 5
+[03-Dec-2021 18:55:11 Asia/Kolkata] PHP Warning:  include(../../env/database.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 5
+[03-Dec-2021 18:55:11 Asia/Kolkata] PHP Warning:  include(): Failed opening '../../env/database.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 5
+[03-Dec-2021 18:55:11 Asia/Kolkata] PHP Warning:  include(../../env/constants.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 6
+[03-Dec-2021 18:55:11 Asia/Kolkata] PHP Warning:  include(../../env/constants.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 6
+[03-Dec-2021 18:55:11 Asia/Kolkata] PHP Warning:  include(): Failed opening '../../env/constants.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 6
+[03-Dec-2021 18:55:11 Asia/Kolkata] PHP Warning:  include(../../env/functions.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 7
+[03-Dec-2021 18:55:11 Asia/Kolkata] PHP Warning:  include(../../env/functions.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 7
+[03-Dec-2021 18:55:11 Asia/Kolkata] PHP Warning:  include(): Failed opening '../../env/functions.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 7
+[03-Dec-2021 18:55:11 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function get_safe_value() in /home/dynamict/public_html/learn/t/back/teacher_login.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 9
+[03-Dec-2021 18:55:11 Asia/Kolkata] PHP Warning:  include(../../env/database.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 5
+[03-Dec-2021 18:55:11 Asia/Kolkata] PHP Warning:  include(../../env/database.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 5
+[03-Dec-2021 18:55:11 Asia/Kolkata] PHP Warning:  include(): Failed opening '../../env/database.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 5
+[03-Dec-2021 18:55:11 Asia/Kolkata] PHP Warning:  include(../../env/constants.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 6
+[03-Dec-2021 18:55:11 Asia/Kolkata] PHP Warning:  include(../../env/constants.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 6
+[03-Dec-2021 18:55:11 Asia/Kolkata] PHP Warning:  include(): Failed opening '../../env/constants.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 6
+[03-Dec-2021 18:55:11 Asia/Kolkata] PHP Warning:  include(../../env/functions.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 7
+[03-Dec-2021 18:55:11 Asia/Kolkata] PHP Warning:  include(../../env/functions.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 7
+[03-Dec-2021 18:55:11 Asia/Kolkata] PHP Warning:  include(): Failed opening '../../env/functions.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 7
+[03-Dec-2021 18:55:11 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function get_safe_value() in /home/dynamict/public_html/learn/t/back/teacher_login.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 9
+[03-Dec-2021 18:55:11 Asia/Kolkata] PHP Warning:  include(../../env/database.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 5
+[03-Dec-2021 18:55:11 Asia/Kolkata] PHP Warning:  include(../../env/database.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 5
+[03-Dec-2021 18:55:11 Asia/Kolkata] PHP Warning:  include(): Failed opening '../../env/database.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 5
+[03-Dec-2021 18:55:11 Asia/Kolkata] PHP Warning:  include(../../env/constants.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 6
+[03-Dec-2021 18:55:11 Asia/Kolkata] PHP Warning:  include(../../env/constants.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 6
+[03-Dec-2021 18:55:11 Asia/Kolkata] PHP Warning:  include(): Failed opening '../../env/constants.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 6
+[03-Dec-2021 18:55:11 Asia/Kolkata] PHP Warning:  include(../../env/functions.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 7
+[03-Dec-2021 18:55:11 Asia/Kolkata] PHP Warning:  include(../../env/functions.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 7
+[03-Dec-2021 18:55:11 Asia/Kolkata] PHP Warning:  include(): Failed opening '../../env/functions.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 7
+[03-Dec-2021 18:55:11 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function get_safe_value() in /home/dynamict/public_html/learn/t/back/teacher_login.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 9
+[03-Dec-2021 18:55:12 Asia/Kolkata] PHP Warning:  include(../../env/database.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 5
+[03-Dec-2021 18:55:12 Asia/Kolkata] PHP Warning:  include(../../env/database.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 5
+[03-Dec-2021 18:55:12 Asia/Kolkata] PHP Warning:  include(): Failed opening '../../env/database.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 5
+[03-Dec-2021 18:55:12 Asia/Kolkata] PHP Warning:  include(../../env/constants.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 6
+[03-Dec-2021 18:55:12 Asia/Kolkata] PHP Warning:  include(../../env/constants.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 6
+[03-Dec-2021 18:55:12 Asia/Kolkata] PHP Warning:  include(): Failed opening '../../env/constants.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 6
+[03-Dec-2021 18:55:12 Asia/Kolkata] PHP Warning:  include(../../env/functions.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 7
+[03-Dec-2021 18:55:12 Asia/Kolkata] PHP Warning:  include(../../env/functions.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 7
+[03-Dec-2021 18:55:12 Asia/Kolkata] PHP Warning:  include(): Failed opening '../../env/functions.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 7
+[03-Dec-2021 18:55:12 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function get_safe_value() in /home/dynamict/public_html/learn/t/back/teacher_login.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 9
+[03-Dec-2021 18:55:12 Asia/Kolkata] PHP Warning:  include(../../env/database.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 5
+[03-Dec-2021 18:55:12 Asia/Kolkata] PHP Warning:  include(../../env/database.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 5
+[03-Dec-2021 18:55:12 Asia/Kolkata] PHP Warning:  include(): Failed opening '../../env/database.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 5
+[03-Dec-2021 18:55:12 Asia/Kolkata] PHP Warning:  include(../../env/constants.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 6
+[03-Dec-2021 18:55:12 Asia/Kolkata] PHP Warning:  include(../../env/constants.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 6
+[03-Dec-2021 18:55:12 Asia/Kolkata] PHP Warning:  include(): Failed opening '../../env/constants.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 6
+[03-Dec-2021 18:55:12 Asia/Kolkata] PHP Warning:  include(../../env/functions.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 7
+[03-Dec-2021 18:55:12 Asia/Kolkata] PHP Warning:  include(../../env/functions.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 7
+[03-Dec-2021 18:55:12 Asia/Kolkata] PHP Warning:  include(): Failed opening '../../env/functions.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 7
+[03-Dec-2021 18:55:12 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function get_safe_value() in /home/dynamict/public_html/learn/t/back/teacher_login.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 9
+[04-Dec-2021 16:27:54 Asia/Kolkata] PHP Warning:  include(../../env/database.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 5
+[04-Dec-2021 16:27:54 Asia/Kolkata] PHP Warning:  include(../../env/database.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 5
+[04-Dec-2021 16:27:54 Asia/Kolkata] PHP Warning:  include(): Failed opening '../../env/database.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 5
+[04-Dec-2021 16:27:54 Asia/Kolkata] PHP Warning:  include(../../env/constants.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 6
+[04-Dec-2021 16:27:54 Asia/Kolkata] PHP Warning:  include(../../env/constants.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 6
+[04-Dec-2021 16:27:54 Asia/Kolkata] PHP Warning:  include(): Failed opening '../../env/constants.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 6
+[04-Dec-2021 16:27:54 Asia/Kolkata] PHP Warning:  include(../../env/functions.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 7
+[04-Dec-2021 16:27:54 Asia/Kolkata] PHP Warning:  include(../../env/functions.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 7
+[04-Dec-2021 16:27:54 Asia/Kolkata] PHP Warning:  include(): Failed opening '../../env/functions.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 7
+[04-Dec-2021 16:27:54 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function get_safe_value() in /home/dynamict/public_html/learn/t/back/teacher_login.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 9
+[04-Dec-2021 16:28:02 Asia/Kolkata] PHP Warning:  include(../../env/database.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 5
+[04-Dec-2021 16:28:02 Asia/Kolkata] PHP Warning:  include(../../env/database.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 5
+[04-Dec-2021 16:28:02 Asia/Kolkata] PHP Warning:  include(): Failed opening '../../env/database.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 5
+[04-Dec-2021 16:28:02 Asia/Kolkata] PHP Warning:  include(../../env/constants.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 6
+[04-Dec-2021 16:28:02 Asia/Kolkata] PHP Warning:  include(../../env/constants.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 6
+[04-Dec-2021 16:28:02 Asia/Kolkata] PHP Warning:  include(): Failed opening '../../env/constants.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 6
+[04-Dec-2021 16:28:02 Asia/Kolkata] PHP Warning:  include(../../env/functions.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 7
+[04-Dec-2021 16:28:02 Asia/Kolkata] PHP Warning:  include(../../env/functions.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 7
+[04-Dec-2021 16:28:02 Asia/Kolkata] PHP Warning:  include(): Failed opening '../../env/functions.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 7
+[04-Dec-2021 16:28:02 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function get_safe_value() in /home/dynamict/public_html/learn/t/back/teacher_login.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 9
+[04-Dec-2021 16:28:19 Asia/Kolkata] PHP Warning:  include(../../env/database.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 5
+[04-Dec-2021 16:28:19 Asia/Kolkata] PHP Warning:  include(../../env/database.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 5
+[04-Dec-2021 16:28:19 Asia/Kolkata] PHP Warning:  include(): Failed opening '../../env/database.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 5
+[04-Dec-2021 16:28:19 Asia/Kolkata] PHP Warning:  include(../../env/constants.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 6
+[04-Dec-2021 16:28:19 Asia/Kolkata] PHP Warning:  include(../../env/constants.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 6
+[04-Dec-2021 16:28:19 Asia/Kolkata] PHP Warning:  include(): Failed opening '../../env/constants.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 6
+[04-Dec-2021 16:28:19 Asia/Kolkata] PHP Warning:  include(../../env/functions.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 7
+[04-Dec-2021 16:28:19 Asia/Kolkata] PHP Warning:  include(../../env/functions.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 7
+[04-Dec-2021 16:28:19 Asia/Kolkata] PHP Warning:  include(): Failed opening '../../env/functions.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 7
+[04-Dec-2021 16:28:19 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function get_safe_value() in /home/dynamict/public_html/learn/t/back/teacher_login.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 9
+[13-Dec-2021 21:19:30 Asia/Kolkata] PHP Warning:  include(../../env/database.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 5
+[13-Dec-2021 21:19:30 Asia/Kolkata] PHP Warning:  include(../../env/database.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 5
+[13-Dec-2021 21:19:30 Asia/Kolkata] PHP Warning:  include(): Failed opening '../../env/database.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 5
+[13-Dec-2021 21:19:30 Asia/Kolkata] PHP Warning:  include(../../env/constants.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 6
+[13-Dec-2021 21:19:30 Asia/Kolkata] PHP Warning:  include(../../env/constants.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 6
+[13-Dec-2021 21:19:30 Asia/Kolkata] PHP Warning:  include(): Failed opening '../../env/constants.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 6
+[13-Dec-2021 21:19:30 Asia/Kolkata] PHP Warning:  include(../../env/functions.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 7
+[13-Dec-2021 21:19:30 Asia/Kolkata] PHP Warning:  include(../../env/functions.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 7
+[13-Dec-2021 21:19:30 Asia/Kolkata] PHP Warning:  include(): Failed opening '../../env/functions.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 7
+[13-Dec-2021 21:19:30 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function get_safe_value() in /home/dynamict/public_html/learn/t/back/teacher_login.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 9
+[13-Dec-2021 21:19:34 Asia/Kolkata] PHP Warning:  include(../../env/database.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 5
+[13-Dec-2021 21:19:34 Asia/Kolkata] PHP Warning:  include(../../env/database.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 5
+[13-Dec-2021 21:19:34 Asia/Kolkata] PHP Warning:  include(): Failed opening '../../env/database.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 5
+[13-Dec-2021 21:19:34 Asia/Kolkata] PHP Warning:  include(../../env/constants.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 6
+[13-Dec-2021 21:19:34 Asia/Kolkata] PHP Warning:  include(../../env/constants.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 6
+[13-Dec-2021 21:19:34 Asia/Kolkata] PHP Warning:  include(): Failed opening '../../env/constants.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 6
+[13-Dec-2021 21:19:34 Asia/Kolkata] PHP Warning:  include(../../env/functions.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 7
+[13-Dec-2021 21:19:34 Asia/Kolkata] PHP Warning:  include(../../env/functions.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 7
+[13-Dec-2021 21:19:34 Asia/Kolkata] PHP Warning:  include(): Failed opening '../../env/functions.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 7
+[13-Dec-2021 21:19:34 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function get_safe_value() in /home/dynamict/public_html/learn/t/back/teacher_login.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 9
+[13-Dec-2021 21:19:38 Asia/Kolkata] PHP Warning:  include(../../env/database.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 5
+[13-Dec-2021 21:19:38 Asia/Kolkata] PHP Warning:  include(../../env/database.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 5
+[13-Dec-2021 21:19:38 Asia/Kolkata] PHP Warning:  include(): Failed opening '../../env/database.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 5
+[13-Dec-2021 21:19:38 Asia/Kolkata] PHP Warning:  include(../../env/constants.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 6
+[13-Dec-2021 21:19:38 Asia/Kolkata] PHP Warning:  include(../../env/constants.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 6
+[13-Dec-2021 21:19:38 Asia/Kolkata] PHP Warning:  include(): Failed opening '../../env/constants.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 6
+[13-Dec-2021 21:19:38 Asia/Kolkata] PHP Warning:  include(../../env/functions.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 7
+[13-Dec-2021 21:19:38 Asia/Kolkata] PHP Warning:  include(../../env/functions.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 7
+[13-Dec-2021 21:19:38 Asia/Kolkata] PHP Warning:  include(): Failed opening '../../env/functions.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 7
+[13-Dec-2021 21:19:38 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function get_safe_value() in /home/dynamict/public_html/learn/t/back/teacher_login.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 9
+[13-Dec-2021 21:19:42 Asia/Kolkata] PHP Warning:  include(../../env/database.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 5
+[13-Dec-2021 21:19:42 Asia/Kolkata] PHP Warning:  include(../../env/database.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 5
+[13-Dec-2021 21:19:42 Asia/Kolkata] PHP Warning:  include(): Failed opening '../../env/database.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 5
+[13-Dec-2021 21:19:42 Asia/Kolkata] PHP Warning:  include(../../env/constants.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 6
+[13-Dec-2021 21:19:42 Asia/Kolkata] PHP Warning:  include(../../env/constants.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 6
+[13-Dec-2021 21:19:42 Asia/Kolkata] PHP Warning:  include(): Failed opening '../../env/constants.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 6
+[13-Dec-2021 21:19:42 Asia/Kolkata] PHP Warning:  include(../../env/functions.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 7
+[13-Dec-2021 21:19:42 Asia/Kolkata] PHP Warning:  include(../../env/functions.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 7
+[13-Dec-2021 21:19:42 Asia/Kolkata] PHP Warning:  include(): Failed opening '../../env/functions.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 7
+[13-Dec-2021 21:19:42 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function get_safe_value() in /home/dynamict/public_html/learn/t/back/teacher_login.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 9
+[13-Dec-2021 21:19:44 Asia/Kolkata] PHP Warning:  include(../../env/database.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 5
+[13-Dec-2021 21:19:44 Asia/Kolkata] PHP Warning:  include(../../env/database.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 5
+[13-Dec-2021 21:19:44 Asia/Kolkata] PHP Warning:  include(): Failed opening '../../env/database.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 5
+[13-Dec-2021 21:19:44 Asia/Kolkata] PHP Warning:  include(../../env/constants.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 6
+[13-Dec-2021 21:19:44 Asia/Kolkata] PHP Warning:  include(../../env/constants.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 6
+[13-Dec-2021 21:19:44 Asia/Kolkata] PHP Warning:  include(): Failed opening '../../env/constants.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 6
+[13-Dec-2021 21:19:44 Asia/Kolkata] PHP Warning:  include(../../env/functions.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 7
+[13-Dec-2021 21:19:44 Asia/Kolkata] PHP Warning:  include(../../env/functions.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 7
+[13-Dec-2021 21:19:44 Asia/Kolkata] PHP Warning:  include(): Failed opening '../../env/functions.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 7
+[13-Dec-2021 21:19:44 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function get_safe_value() in /home/dynamict/public_html/learn/t/back/teacher_login.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 9
+[31-Dec-2021 18:51:32 Asia/Kolkata] PHP Warning:  include(../../env/database.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 5
+[31-Dec-2021 18:51:32 Asia/Kolkata] PHP Warning:  include(../../env/database.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 5
+[31-Dec-2021 18:51:32 Asia/Kolkata] PHP Warning:  include(): Failed opening '../../env/database.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 5
+[31-Dec-2021 18:51:32 Asia/Kolkata] PHP Warning:  include(../../env/constants.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 6
+[31-Dec-2021 18:51:32 Asia/Kolkata] PHP Warning:  include(../../env/constants.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 6
+[31-Dec-2021 18:51:32 Asia/Kolkata] PHP Warning:  include(): Failed opening '../../env/constants.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 6
+[31-Dec-2021 18:51:32 Asia/Kolkata] PHP Warning:  include(../../env/functions.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 7
+[31-Dec-2021 18:51:32 Asia/Kolkata] PHP Warning:  include(../../env/functions.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 7
+[31-Dec-2021 18:51:32 Asia/Kolkata] PHP Warning:  include(): Failed opening '../../env/functions.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 7
+[31-Dec-2021 18:51:32 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function get_safe_value() in /home/dynamict/public_html/learn/t/back/teacher_login.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 9
+[31-Dec-2021 18:51:36 Asia/Kolkata] PHP Warning:  include(../../env/database.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 5
+[31-Dec-2021 18:51:36 Asia/Kolkata] PHP Warning:  include(../../env/database.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 5
+[31-Dec-2021 18:51:36 Asia/Kolkata] PHP Warning:  include(): Failed opening '../../env/database.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 5
+[31-Dec-2021 18:51:36 Asia/Kolkata] PHP Warning:  include(../../env/constants.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 6
+[31-Dec-2021 18:51:36 Asia/Kolkata] PHP Warning:  include(../../env/constants.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 6
+[31-Dec-2021 18:51:36 Asia/Kolkata] PHP Warning:  include(): Failed opening '../../env/constants.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 6
+[31-Dec-2021 18:51:36 Asia/Kolkata] PHP Warning:  include(../../env/functions.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 7
+[31-Dec-2021 18:51:36 Asia/Kolkata] PHP Warning:  include(../../env/functions.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 7
+[31-Dec-2021 18:51:36 Asia/Kolkata] PHP Warning:  include(): Failed opening '../../env/functions.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 7
+[31-Dec-2021 18:51:36 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function get_safe_value() in /home/dynamict/public_html/learn/t/back/teacher_login.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 9
+[03-Jan-2022 09:29:34 Asia/Kolkata] PHP Warning:  include(../../env/database.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 5
+[03-Jan-2022 09:29:34 Asia/Kolkata] PHP Warning:  include(../../env/database.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 5
+[03-Jan-2022 09:29:34 Asia/Kolkata] PHP Warning:  include(): Failed opening '../../env/database.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 5
+[03-Jan-2022 09:29:34 Asia/Kolkata] PHP Warning:  include(../../env/constants.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 6
+[03-Jan-2022 09:29:34 Asia/Kolkata] PHP Warning:  include(../../env/constants.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 6
+[03-Jan-2022 09:29:34 Asia/Kolkata] PHP Warning:  include(): Failed opening '../../env/constants.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 6
+[03-Jan-2022 09:29:34 Asia/Kolkata] PHP Warning:  include(../../env/functions.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 7
+[03-Jan-2022 09:29:34 Asia/Kolkata] PHP Warning:  include(../../env/functions.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 7
+[03-Jan-2022 09:29:34 Asia/Kolkata] PHP Warning:  include(): Failed opening '../../env/functions.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 7
+[03-Jan-2022 09:29:34 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function get_safe_value() in /home/dynamict/public_html/learn/t/back/teacher_login.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 9
+[03-Jan-2022 09:29:37 Asia/Kolkata] PHP Warning:  include(../../env/database.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 5
+[03-Jan-2022 09:29:37 Asia/Kolkata] PHP Warning:  include(../../env/database.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 5
+[03-Jan-2022 09:29:37 Asia/Kolkata] PHP Warning:  include(): Failed opening '../../env/database.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 5
+[03-Jan-2022 09:29:37 Asia/Kolkata] PHP Warning:  include(../../env/constants.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 6
+[03-Jan-2022 09:29:37 Asia/Kolkata] PHP Warning:  include(../../env/constants.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 6
+[03-Jan-2022 09:29:37 Asia/Kolkata] PHP Warning:  include(): Failed opening '../../env/constants.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 6
+[03-Jan-2022 09:29:37 Asia/Kolkata] PHP Warning:  include(../../env/functions.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 7
+[03-Jan-2022 09:29:37 Asia/Kolkata] PHP Warning:  include(../../env/functions.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 7
+[03-Jan-2022 09:29:37 Asia/Kolkata] PHP Warning:  include(): Failed opening '../../env/functions.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 7
+[03-Jan-2022 09:29:37 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function get_safe_value() in /home/dynamict/public_html/learn/t/back/teacher_login.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 9
+[03-Jan-2022 09:31:00 Asia/Kolkata] PHP Warning:  include(../../env/database.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 5
+[03-Jan-2022 09:31:00 Asia/Kolkata] PHP Warning:  include(../../env/database.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 5
+[03-Jan-2022 09:31:00 Asia/Kolkata] PHP Warning:  include(): Failed opening '../../env/database.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 5
+[03-Jan-2022 09:31:00 Asia/Kolkata] PHP Warning:  include(../../env/constants.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 6
+[03-Jan-2022 09:31:00 Asia/Kolkata] PHP Warning:  include(../../env/constants.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 6
+[03-Jan-2022 09:31:00 Asia/Kolkata] PHP Warning:  include(): Failed opening '../../env/constants.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 6
+[03-Jan-2022 09:31:00 Asia/Kolkata] PHP Warning:  include(../../env/functions.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 7
+[03-Jan-2022 09:31:00 Asia/Kolkata] PHP Warning:  include(../../env/functions.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 7
+[03-Jan-2022 09:31:00 Asia/Kolkata] PHP Warning:  include(): Failed opening '../../env/functions.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 7
+[03-Jan-2022 09:31:00 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function get_safe_value() in /home/dynamict/public_html/learn/t/back/teacher_login.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 9
+[03-Jan-2022 09:31:03 Asia/Kolkata] PHP Warning:  include(../../env/database.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 5
+[03-Jan-2022 09:31:03 Asia/Kolkata] PHP Warning:  include(../../env/database.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 5
+[03-Jan-2022 09:31:03 Asia/Kolkata] PHP Warning:  include(): Failed opening '../../env/database.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 5
+[03-Jan-2022 09:31:03 Asia/Kolkata] PHP Warning:  include(../../env/constants.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 6
+[03-Jan-2022 09:31:03 Asia/Kolkata] PHP Warning:  include(../../env/constants.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 6
+[03-Jan-2022 09:31:03 Asia/Kolkata] PHP Warning:  include(): Failed opening '../../env/constants.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 6
+[03-Jan-2022 09:31:03 Asia/Kolkata] PHP Warning:  include(../../env/functions.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 7
+[03-Jan-2022 09:31:03 Asia/Kolkata] PHP Warning:  include(../../env/functions.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 7
+[03-Jan-2022 09:31:03 Asia/Kolkata] PHP Warning:  include(): Failed opening '../../env/functions.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 7
+[03-Jan-2022 09:31:03 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function get_safe_value() in /home/dynamict/public_html/learn/t/back/teacher_login.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 9
+[03-Jan-2022 09:31:09 Asia/Kolkata] PHP Warning:  include(../../env/database.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 5
+[03-Jan-2022 09:31:09 Asia/Kolkata] PHP Warning:  include(../../env/database.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 5
+[03-Jan-2022 09:31:09 Asia/Kolkata] PHP Warning:  include(): Failed opening '../../env/database.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 5
+[03-Jan-2022 09:31:09 Asia/Kolkata] PHP Warning:  include(../../env/constants.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 6
+[03-Jan-2022 09:31:09 Asia/Kolkata] PHP Warning:  include(../../env/constants.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 6
+[03-Jan-2022 09:31:09 Asia/Kolkata] PHP Warning:  include(): Failed opening '../../env/constants.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 6
+[03-Jan-2022 09:31:09 Asia/Kolkata] PHP Warning:  include(../../env/functions.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 7
+[03-Jan-2022 09:31:09 Asia/Kolkata] PHP Warning:  include(../../env/functions.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 7
+[03-Jan-2022 09:31:09 Asia/Kolkata] PHP Warning:  include(): Failed opening '../../env/functions.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 7
+[03-Jan-2022 09:31:09 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function get_safe_value() in /home/dynamict/public_html/learn/t/back/teacher_login.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 9
+[03-Jan-2022 09:31:10 Asia/Kolkata] PHP Warning:  include(../../env/database.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 5
+[03-Jan-2022 09:31:10 Asia/Kolkata] PHP Warning:  include(../../env/database.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 5
+[03-Jan-2022 09:31:10 Asia/Kolkata] PHP Warning:  include(): Failed opening '../../env/database.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 5
+[03-Jan-2022 09:31:10 Asia/Kolkata] PHP Warning:  include(../../env/constants.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 6
+[03-Jan-2022 09:31:10 Asia/Kolkata] PHP Warning:  include(../../env/constants.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 6
+[03-Jan-2022 09:31:10 Asia/Kolkata] PHP Warning:  include(): Failed opening '../../env/constants.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 6
+[03-Jan-2022 09:31:10 Asia/Kolkata] PHP Warning:  include(../../env/functions.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 7
+[03-Jan-2022 09:31:10 Asia/Kolkata] PHP Warning:  include(../../env/functions.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 7
+[03-Jan-2022 09:31:10 Asia/Kolkata] PHP Warning:  include(): Failed opening '../../env/functions.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 7
+[03-Jan-2022 09:31:10 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function get_safe_value() in /home/dynamict/public_html/learn/t/back/teacher_login.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 9
+[03-Jan-2022 09:31:13 Asia/Kolkata] PHP Warning:  include(../../env/database.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 5
+[03-Jan-2022 09:31:13 Asia/Kolkata] PHP Warning:  include(../../env/database.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 5
+[03-Jan-2022 09:31:13 Asia/Kolkata] PHP Warning:  include(): Failed opening '../../env/database.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 5
+[03-Jan-2022 09:31:13 Asia/Kolkata] PHP Warning:  include(../../env/constants.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 6
+[03-Jan-2022 09:31:13 Asia/Kolkata] PHP Warning:  include(../../env/constants.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 6
+[03-Jan-2022 09:31:13 Asia/Kolkata] PHP Warning:  include(): Failed opening '../../env/constants.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 6
+[03-Jan-2022 09:31:13 Asia/Kolkata] PHP Warning:  include(../../env/functions.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 7
+[03-Jan-2022 09:31:13 Asia/Kolkata] PHP Warning:  include(../../env/functions.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 7
+[03-Jan-2022 09:31:13 Asia/Kolkata] PHP Warning:  include(): Failed opening '../../env/functions.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 7
+[03-Jan-2022 09:31:13 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function get_safe_value() in /home/dynamict/public_html/learn/t/back/teacher_login.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 9
+[03-Jan-2022 09:31:29 Asia/Kolkata] PHP Warning:  include(../../env/database.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 5
+[03-Jan-2022 09:31:29 Asia/Kolkata] PHP Warning:  include(../../env/database.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 5
+[03-Jan-2022 09:31:29 Asia/Kolkata] PHP Warning:  include(): Failed opening '../../env/database.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 5
+[03-Jan-2022 09:31:29 Asia/Kolkata] PHP Warning:  include(../../env/constants.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 6
+[03-Jan-2022 09:31:29 Asia/Kolkata] PHP Warning:  include(../../env/constants.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 6
+[03-Jan-2022 09:31:29 Asia/Kolkata] PHP Warning:  include(): Failed opening '../../env/constants.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 6
+[03-Jan-2022 09:31:29 Asia/Kolkata] PHP Warning:  include(../../env/functions.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 7
+[03-Jan-2022 09:31:29 Asia/Kolkata] PHP Warning:  include(../../env/functions.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 7
+[03-Jan-2022 09:31:29 Asia/Kolkata] PHP Warning:  include(): Failed opening '../../env/functions.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 7
+[03-Jan-2022 09:31:29 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function get_safe_value() in /home/dynamict/public_html/learn/t/back/teacher_login.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 9
+[03-Jan-2022 09:31:32 Asia/Kolkata] PHP Warning:  include(../../env/database.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 5
+[03-Jan-2022 09:31:32 Asia/Kolkata] PHP Warning:  include(../../env/database.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 5
+[03-Jan-2022 09:31:32 Asia/Kolkata] PHP Warning:  include(): Failed opening '../../env/database.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 5
+[03-Jan-2022 09:31:32 Asia/Kolkata] PHP Warning:  include(../../env/constants.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 6
+[03-Jan-2022 09:31:32 Asia/Kolkata] PHP Warning:  include(../../env/constants.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 6
+[03-Jan-2022 09:31:32 Asia/Kolkata] PHP Warning:  include(): Failed opening '../../env/constants.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 6
+[03-Jan-2022 09:31:32 Asia/Kolkata] PHP Warning:  include(../../env/functions.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 7
+[03-Jan-2022 09:31:32 Asia/Kolkata] PHP Warning:  include(../../env/functions.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 7
+[03-Jan-2022 09:31:32 Asia/Kolkata] PHP Warning:  include(): Failed opening '../../env/functions.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 7
+[03-Jan-2022 09:31:32 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function get_safe_value() in /home/dynamict/public_html/learn/t/back/teacher_login.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 9
+[05-Jan-2022 20:35:41 Asia/Kolkata] PHP Warning:  include(../../env/database.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 5
+[05-Jan-2022 20:35:41 Asia/Kolkata] PHP Warning:  include(../../env/database.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 5
+[05-Jan-2022 20:35:41 Asia/Kolkata] PHP Warning:  include(): Failed opening '../../env/database.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 5
+[05-Jan-2022 20:35:41 Asia/Kolkata] PHP Warning:  include(../../env/constants.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 6
+[05-Jan-2022 20:35:41 Asia/Kolkata] PHP Warning:  include(../../env/constants.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 6
+[05-Jan-2022 20:35:41 Asia/Kolkata] PHP Warning:  include(): Failed opening '../../env/constants.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 6
+[05-Jan-2022 20:35:41 Asia/Kolkata] PHP Warning:  include(../../env/functions.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 7
+[05-Jan-2022 20:35:41 Asia/Kolkata] PHP Warning:  include(../../env/functions.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 7
+[05-Jan-2022 20:35:41 Asia/Kolkata] PHP Warning:  include(): Failed opening '../../env/functions.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 7
+[05-Jan-2022 20:35:41 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function get_safe_value() in /home/dynamict/public_html/learn/t/back/teacher_login.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 9
+[05-Jan-2022 20:35:46 Asia/Kolkata] PHP Warning:  include(../../env/database.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 5
+[05-Jan-2022 20:35:46 Asia/Kolkata] PHP Warning:  include(../../env/database.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 5
+[05-Jan-2022 20:35:46 Asia/Kolkata] PHP Warning:  include(): Failed opening '../../env/database.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 5
+[05-Jan-2022 20:35:46 Asia/Kolkata] PHP Warning:  include(../../env/constants.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 6
+[05-Jan-2022 20:35:46 Asia/Kolkata] PHP Warning:  include(../../env/constants.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 6
+[05-Jan-2022 20:35:46 Asia/Kolkata] PHP Warning:  include(): Failed opening '../../env/constants.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 6
+[05-Jan-2022 20:35:46 Asia/Kolkata] PHP Warning:  include(../../env/functions.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 7
+[05-Jan-2022 20:35:46 Asia/Kolkata] PHP Warning:  include(../../env/functions.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 7
+[05-Jan-2022 20:35:46 Asia/Kolkata] PHP Warning:  include(): Failed opening '../../env/functions.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 7
+[05-Jan-2022 20:35:46 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function get_safe_value() in /home/dynamict/public_html/learn/t/back/teacher_login.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 9
+[15-Jan-2022 19:36:18 Asia/Kolkata] PHP Warning:  include(../../env/database.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 5
+[15-Jan-2022 19:36:18 Asia/Kolkata] PHP Warning:  include(../../env/database.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 5
+[15-Jan-2022 19:36:18 Asia/Kolkata] PHP Warning:  include(): Failed opening '../../env/database.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 5
+[15-Jan-2022 19:36:18 Asia/Kolkata] PHP Warning:  include(../../env/constants.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 6
+[15-Jan-2022 19:36:18 Asia/Kolkata] PHP Warning:  include(../../env/constants.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 6
+[15-Jan-2022 19:36:18 Asia/Kolkata] PHP Warning:  include(): Failed opening '../../env/constants.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 6
+[15-Jan-2022 19:36:18 Asia/Kolkata] PHP Warning:  include(../../env/functions.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 7
+[15-Jan-2022 19:36:18 Asia/Kolkata] PHP Warning:  include(../../env/functions.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 7
+[15-Jan-2022 19:36:18 Asia/Kolkata] PHP Warning:  include(): Failed opening '../../env/functions.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 7
+[15-Jan-2022 19:36:18 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function get_safe_value() in /home/dynamict/public_html/learn/t/back/teacher_login.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 9
+[15-Jan-2022 19:36:24 Asia/Kolkata] PHP Warning:  include(../../env/database.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 5
+[15-Jan-2022 19:36:24 Asia/Kolkata] PHP Warning:  include(../../env/database.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 5
+[15-Jan-2022 19:36:24 Asia/Kolkata] PHP Warning:  include(): Failed opening '../../env/database.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 5
+[15-Jan-2022 19:36:24 Asia/Kolkata] PHP Warning:  include(../../env/constants.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 6
+[15-Jan-2022 19:36:24 Asia/Kolkata] PHP Warning:  include(../../env/constants.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 6
+[15-Jan-2022 19:36:24 Asia/Kolkata] PHP Warning:  include(): Failed opening '../../env/constants.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 6
+[15-Jan-2022 19:36:24 Asia/Kolkata] PHP Warning:  include(../../env/functions.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 7
+[15-Jan-2022 19:36:24 Asia/Kolkata] PHP Warning:  include(../../env/functions.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 7
+[15-Jan-2022 19:36:24 Asia/Kolkata] PHP Warning:  include(): Failed opening '../../env/functions.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 7
+[15-Jan-2022 19:36:24 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function get_safe_value() in /home/dynamict/public_html/learn/t/back/teacher_login.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 9
+[15-Jan-2022 19:36:40 Asia/Kolkata] PHP Warning:  include(../../env/database.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 5
+[15-Jan-2022 19:36:40 Asia/Kolkata] PHP Warning:  include(../../env/database.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 5
+[15-Jan-2022 19:36:40 Asia/Kolkata] PHP Warning:  include(): Failed opening '../../env/database.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 5
+[15-Jan-2022 19:36:40 Asia/Kolkata] PHP Warning:  include(../../env/constants.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 6
+[15-Jan-2022 19:36:40 Asia/Kolkata] PHP Warning:  include(../../env/constants.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 6
+[15-Jan-2022 19:36:40 Asia/Kolkata] PHP Warning:  include(): Failed opening '../../env/constants.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 6
+[15-Jan-2022 19:36:40 Asia/Kolkata] PHP Warning:  include(../../env/functions.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 7
+[15-Jan-2022 19:36:40 Asia/Kolkata] PHP Warning:  include(../../env/functions.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 7
+[15-Jan-2022 19:36:40 Asia/Kolkata] PHP Warning:  include(): Failed opening '../../env/functions.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 7
+[15-Jan-2022 19:36:40 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function get_safe_value() in /home/dynamict/public_html/learn/t/back/teacher_login.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 9
+[15-Jan-2022 19:36:44 Asia/Kolkata] PHP Warning:  include(../../env/database.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 5
+[15-Jan-2022 19:36:44 Asia/Kolkata] PHP Warning:  include(../../env/database.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 5
+[15-Jan-2022 19:36:44 Asia/Kolkata] PHP Warning:  include(): Failed opening '../../env/database.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 5
+[15-Jan-2022 19:36:44 Asia/Kolkata] PHP Warning:  include(../../env/constants.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 6
+[15-Jan-2022 19:36:44 Asia/Kolkata] PHP Warning:  include(../../env/constants.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 6
+[15-Jan-2022 19:36:44 Asia/Kolkata] PHP Warning:  include(): Failed opening '../../env/constants.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 6
+[15-Jan-2022 19:36:44 Asia/Kolkata] PHP Warning:  include(../../env/functions.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 7
+[15-Jan-2022 19:36:44 Asia/Kolkata] PHP Warning:  include(../../env/functions.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 7
+[15-Jan-2022 19:36:44 Asia/Kolkata] PHP Warning:  include(): Failed opening '../../env/functions.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 7
+[15-Jan-2022 19:36:44 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function get_safe_value() in /home/dynamict/public_html/learn/t/back/teacher_login.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 9
+[15-Jan-2022 19:37:00 Asia/Kolkata] PHP Warning:  include(../../env/database.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 5
+[15-Jan-2022 19:37:00 Asia/Kolkata] PHP Warning:  include(../../env/database.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 5
+[15-Jan-2022 19:37:00 Asia/Kolkata] PHP Warning:  include(): Failed opening '../../env/database.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 5
+[15-Jan-2022 19:37:00 Asia/Kolkata] PHP Warning:  include(../../env/constants.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 6
+[15-Jan-2022 19:37:00 Asia/Kolkata] PHP Warning:  include(../../env/constants.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 6
+[15-Jan-2022 19:37:00 Asia/Kolkata] PHP Warning:  include(): Failed opening '../../env/constants.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 6
+[15-Jan-2022 19:37:00 Asia/Kolkata] PHP Warning:  include(../../env/functions.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 7
+[15-Jan-2022 19:37:00 Asia/Kolkata] PHP Warning:  include(../../env/functions.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 7
+[15-Jan-2022 19:37:00 Asia/Kolkata] PHP Warning:  include(): Failed opening '../../env/functions.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 7
+[15-Jan-2022 19:37:00 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function get_safe_value() in /home/dynamict/public_html/learn/t/back/teacher_login.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 9
+[15-Jan-2022 19:38:02 Asia/Kolkata] PHP Warning:  include(../../env/database.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 5
+[15-Jan-2022 19:38:02 Asia/Kolkata] PHP Warning:  include(../../env/database.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 5
+[15-Jan-2022 19:38:02 Asia/Kolkata] PHP Warning:  include(): Failed opening '../../env/database.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 5
+[15-Jan-2022 19:38:02 Asia/Kolkata] PHP Warning:  include(../../env/constants.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 6
+[15-Jan-2022 19:38:02 Asia/Kolkata] PHP Warning:  include(../../env/constants.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 6
+[15-Jan-2022 19:38:02 Asia/Kolkata] PHP Warning:  include(): Failed opening '../../env/constants.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 6
+[15-Jan-2022 19:38:02 Asia/Kolkata] PHP Warning:  include(../../env/functions.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 7
+[15-Jan-2022 19:38:02 Asia/Kolkata] PHP Warning:  include(../../env/functions.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 7
+[15-Jan-2022 19:38:02 Asia/Kolkata] PHP Warning:  include(): Failed opening '../../env/functions.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 7
+[15-Jan-2022 19:38:02 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function get_safe_value() in /home/dynamict/public_html/learn/t/back/teacher_login.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 9
+[15-Jan-2022 19:39:30 Asia/Kolkata] PHP Warning:  include(../../env/database.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 5
+[15-Jan-2022 19:39:30 Asia/Kolkata] PHP Warning:  include(../../env/database.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 5
+[15-Jan-2022 19:39:30 Asia/Kolkata] PHP Warning:  include(): Failed opening '../../env/database.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 5
+[15-Jan-2022 19:39:30 Asia/Kolkata] PHP Warning:  include(../../env/constants.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 6
+[15-Jan-2022 19:39:30 Asia/Kolkata] PHP Warning:  include(../../env/constants.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 6
+[15-Jan-2022 19:39:30 Asia/Kolkata] PHP Warning:  include(): Failed opening '../../env/constants.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 6
+[15-Jan-2022 19:39:30 Asia/Kolkata] PHP Warning:  include(../../env/functions.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 7
+[15-Jan-2022 19:39:30 Asia/Kolkata] PHP Warning:  include(../../env/functions.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 7
+[15-Jan-2022 19:39:30 Asia/Kolkata] PHP Warning:  include(): Failed opening '../../env/functions.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 7
+[15-Jan-2022 19:39:30 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function get_safe_value() in /home/dynamict/public_html/learn/t/back/teacher_login.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 9
+[15-Jan-2022 19:39:34 Asia/Kolkata] PHP Warning:  include(../../env/database.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 5
+[15-Jan-2022 19:39:34 Asia/Kolkata] PHP Warning:  include(../../env/database.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 5
+[15-Jan-2022 19:39:34 Asia/Kolkata] PHP Warning:  include(): Failed opening '../../env/database.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 5
+[15-Jan-2022 19:39:34 Asia/Kolkata] PHP Warning:  include(../../env/constants.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 6
+[15-Jan-2022 19:39:34 Asia/Kolkata] PHP Warning:  include(../../env/constants.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 6
+[15-Jan-2022 19:39:34 Asia/Kolkata] PHP Warning:  include(): Failed opening '../../env/constants.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 6
+[15-Jan-2022 19:39:34 Asia/Kolkata] PHP Warning:  include(../../env/functions.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 7
+[15-Jan-2022 19:39:34 Asia/Kolkata] PHP Warning:  include(../../env/functions.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 7
+[15-Jan-2022 19:39:34 Asia/Kolkata] PHP Warning:  include(): Failed opening '../../env/functions.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 7
+[15-Jan-2022 19:39:34 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function get_safe_value() in /home/dynamict/public_html/learn/t/back/teacher_login.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 9
+[15-Jan-2022 19:39:36 Asia/Kolkata] PHP Warning:  include(../../env/database.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 5
+[15-Jan-2022 19:39:36 Asia/Kolkata] PHP Warning:  include(../../env/database.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 5
+[15-Jan-2022 19:39:36 Asia/Kolkata] PHP Warning:  include(): Failed opening '../../env/database.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 5
+[15-Jan-2022 19:39:36 Asia/Kolkata] PHP Warning:  include(../../env/constants.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 6
+[15-Jan-2022 19:39:36 Asia/Kolkata] PHP Warning:  include(../../env/constants.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 6
+[15-Jan-2022 19:39:36 Asia/Kolkata] PHP Warning:  include(): Failed opening '../../env/constants.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 6
+[15-Jan-2022 19:39:36 Asia/Kolkata] PHP Warning:  include(../../env/functions.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 7
+[15-Jan-2022 19:39:36 Asia/Kolkata] PHP Warning:  include(../../env/functions.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 7
+[15-Jan-2022 19:39:36 Asia/Kolkata] PHP Warning:  include(): Failed opening '../../env/functions.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 7
+[15-Jan-2022 19:39:36 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function get_safe_value() in /home/dynamict/public_html/learn/t/back/teacher_login.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 9
+[15-Jan-2022 19:39:45 Asia/Kolkata] PHP Warning:  include(../../env/database.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 5
+[15-Jan-2022 19:39:45 Asia/Kolkata] PHP Warning:  include(../../env/database.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 5
+[15-Jan-2022 19:39:45 Asia/Kolkata] PHP Warning:  include(): Failed opening '../../env/database.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 5
+[15-Jan-2022 19:39:45 Asia/Kolkata] PHP Warning:  include(../../env/constants.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 6
+[15-Jan-2022 19:39:45 Asia/Kolkata] PHP Warning:  include(../../env/constants.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 6
+[15-Jan-2022 19:39:45 Asia/Kolkata] PHP Warning:  include(): Failed opening '../../env/constants.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 6
+[15-Jan-2022 19:39:45 Asia/Kolkata] PHP Warning:  include(../../env/functions.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 7
+[15-Jan-2022 19:39:45 Asia/Kolkata] PHP Warning:  include(../../env/functions.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 7
+[15-Jan-2022 19:39:45 Asia/Kolkata] PHP Warning:  include(): Failed opening '../../env/functions.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 7
+[15-Jan-2022 19:39:45 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function get_safe_value() in /home/dynamict/public_html/learn/t/back/teacher_login.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 9
+[15-Jan-2022 19:39:47 Asia/Kolkata] PHP Warning:  include(../../env/database.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 5
+[15-Jan-2022 19:39:47 Asia/Kolkata] PHP Warning:  include(../../env/database.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 5
+[15-Jan-2022 19:39:47 Asia/Kolkata] PHP Warning:  include(): Failed opening '../../env/database.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 5
+[15-Jan-2022 19:39:47 Asia/Kolkata] PHP Warning:  include(../../env/constants.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 6
+[15-Jan-2022 19:39:47 Asia/Kolkata] PHP Warning:  include(../../env/constants.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 6
+[15-Jan-2022 19:39:47 Asia/Kolkata] PHP Warning:  include(): Failed opening '../../env/constants.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 6
+[15-Jan-2022 19:39:47 Asia/Kolkata] PHP Warning:  include(../../env/functions.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 7
+[15-Jan-2022 19:39:47 Asia/Kolkata] PHP Warning:  include(../../env/functions.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 7
+[15-Jan-2022 19:39:47 Asia/Kolkata] PHP Warning:  include(): Failed opening '../../env/functions.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 7
+[15-Jan-2022 19:39:47 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function get_safe_value() in /home/dynamict/public_html/learn/t/back/teacher_login.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 9
+[15-Jan-2022 19:45:01 Asia/Kolkata] PHP Warning:  include(../../env/database.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 5
+[15-Jan-2022 19:45:01 Asia/Kolkata] PHP Warning:  include(../../env/database.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 5
+[15-Jan-2022 19:45:01 Asia/Kolkata] PHP Warning:  include(): Failed opening '../../env/database.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 5
+[15-Jan-2022 19:45:01 Asia/Kolkata] PHP Warning:  include(../../env/constants.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 6
+[15-Jan-2022 19:45:01 Asia/Kolkata] PHP Warning:  include(../../env/constants.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 6
+[15-Jan-2022 19:45:01 Asia/Kolkata] PHP Warning:  include(): Failed opening '../../env/constants.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 6
+[15-Jan-2022 19:45:01 Asia/Kolkata] PHP Warning:  include(../../env/functions.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 7
+[15-Jan-2022 19:45:01 Asia/Kolkata] PHP Warning:  include(../../env/functions.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 7
+[15-Jan-2022 19:45:01 Asia/Kolkata] PHP Warning:  include(): Failed opening '../../env/functions.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 7
+[15-Jan-2022 19:45:01 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function get_safe_value() in /home/dynamict/public_html/learn/t/back/teacher_login.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 9
+[15-Jan-2022 19:45:11 Asia/Kolkata] PHP Warning:  include(../../env/database.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 5
+[15-Jan-2022 19:45:11 Asia/Kolkata] PHP Warning:  include(../../env/database.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 5
+[15-Jan-2022 19:45:11 Asia/Kolkata] PHP Warning:  include(): Failed opening '../../env/database.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 5
+[15-Jan-2022 19:45:11 Asia/Kolkata] PHP Warning:  include(../../env/constants.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 6
+[15-Jan-2022 19:45:11 Asia/Kolkata] PHP Warning:  include(../../env/constants.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 6
+[15-Jan-2022 19:45:11 Asia/Kolkata] PHP Warning:  include(): Failed opening '../../env/constants.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 6
+[15-Jan-2022 19:45:11 Asia/Kolkata] PHP Warning:  include(../../env/functions.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 7
+[15-Jan-2022 19:45:11 Asia/Kolkata] PHP Warning:  include(../../env/functions.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 7
+[15-Jan-2022 19:45:11 Asia/Kolkata] PHP Warning:  include(): Failed opening '../../env/functions.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 7
+[15-Jan-2022 19:45:11 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function get_safe_value() in /home/dynamict/public_html/learn/t/back/teacher_login.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 9
+[15-Jan-2022 19:49:49 Asia/Kolkata] PHP Warning:  include(../../env/database.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 5
+[15-Jan-2022 19:49:49 Asia/Kolkata] PHP Warning:  include(../../env/database.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 5
+[15-Jan-2022 19:49:49 Asia/Kolkata] PHP Warning:  include(): Failed opening '../../env/database.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 5
+[15-Jan-2022 19:49:49 Asia/Kolkata] PHP Warning:  include(../../env/constants.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 6
+[15-Jan-2022 19:49:49 Asia/Kolkata] PHP Warning:  include(../../env/constants.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 6
+[15-Jan-2022 19:49:49 Asia/Kolkata] PHP Warning:  include(): Failed opening '../../env/constants.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 6
+[15-Jan-2022 19:49:49 Asia/Kolkata] PHP Warning:  include(../../env/functions.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 7
+[15-Jan-2022 19:49:49 Asia/Kolkata] PHP Warning:  include(../../env/functions.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 7
+[15-Jan-2022 19:49:49 Asia/Kolkata] PHP Warning:  include(): Failed opening '../../env/functions.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 7
+[15-Jan-2022 19:49:49 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function get_safe_value() in /home/dynamict/public_html/learn/t/back/teacher_login.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 9
+[15-Jan-2022 21:00:34 Asia/Kolkata] PHP Warning:  include(../../env/database.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 5
+[15-Jan-2022 21:00:34 Asia/Kolkata] PHP Warning:  include(../../env/database.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 5
+[15-Jan-2022 21:00:34 Asia/Kolkata] PHP Warning:  include(): Failed opening '../../env/database.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 5
+[15-Jan-2022 21:00:34 Asia/Kolkata] PHP Warning:  include(../../env/constants.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 6
+[15-Jan-2022 21:00:34 Asia/Kolkata] PHP Warning:  include(../../env/constants.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 6
+[15-Jan-2022 21:00:34 Asia/Kolkata] PHP Warning:  include(): Failed opening '../../env/constants.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 6
+[15-Jan-2022 21:00:34 Asia/Kolkata] PHP Warning:  include(../../env/functions.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 7
+[15-Jan-2022 21:00:34 Asia/Kolkata] PHP Warning:  include(../../env/functions.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 7
+[15-Jan-2022 21:00:34 Asia/Kolkata] PHP Warning:  include(): Failed opening '../../env/functions.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 7
+[15-Jan-2022 21:00:34 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function get_safe_value() in /home/dynamict/public_html/learn/t/back/teacher_login.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 9
+[15-Jan-2022 21:00:36 Asia/Kolkata] PHP Warning:  include(../../env/database.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 5
+[15-Jan-2022 21:00:36 Asia/Kolkata] PHP Warning:  include(../../env/database.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 5
+[15-Jan-2022 21:00:36 Asia/Kolkata] PHP Warning:  include(): Failed opening '../../env/database.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 5
+[15-Jan-2022 21:00:36 Asia/Kolkata] PHP Warning:  include(../../env/constants.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 6
+[15-Jan-2022 21:00:36 Asia/Kolkata] PHP Warning:  include(../../env/constants.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 6
+[15-Jan-2022 21:00:36 Asia/Kolkata] PHP Warning:  include(): Failed opening '../../env/constants.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 6
+[15-Jan-2022 21:00:36 Asia/Kolkata] PHP Warning:  include(../../env/functions.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 7
+[15-Jan-2022 21:00:36 Asia/Kolkata] PHP Warning:  include(../../env/functions.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 7
+[15-Jan-2022 21:00:36 Asia/Kolkata] PHP Warning:  include(): Failed opening '../../env/functions.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 7
+[15-Jan-2022 21:00:36 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function get_safe_value() in /home/dynamict/public_html/learn/t/back/teacher_login.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 9
+[15-Jan-2022 21:00:40 Asia/Kolkata] PHP Warning:  include(../../env/database.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 5
+[15-Jan-2022 21:00:40 Asia/Kolkata] PHP Warning:  include(../../env/database.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 5
+[15-Jan-2022 21:00:40 Asia/Kolkata] PHP Warning:  include(): Failed opening '../../env/database.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 5
+[15-Jan-2022 21:00:40 Asia/Kolkata] PHP Warning:  include(../../env/constants.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 6
+[15-Jan-2022 21:00:40 Asia/Kolkata] PHP Warning:  include(../../env/constants.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 6
+[15-Jan-2022 21:00:40 Asia/Kolkata] PHP Warning:  include(): Failed opening '../../env/constants.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 6
+[15-Jan-2022 21:00:40 Asia/Kolkata] PHP Warning:  include(../../env/functions.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 7
+[15-Jan-2022 21:00:40 Asia/Kolkata] PHP Warning:  include(../../env/functions.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 7
+[15-Jan-2022 21:00:40 Asia/Kolkata] PHP Warning:  include(): Failed opening '../../env/functions.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 7
+[15-Jan-2022 21:00:40 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function get_safe_value() in /home/dynamict/public_html/learn/t/back/teacher_login.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 9
+[15-Jan-2022 21:00:41 Asia/Kolkata] PHP Warning:  include(../../env/database.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 5
+[15-Jan-2022 21:00:41 Asia/Kolkata] PHP Warning:  include(../../env/database.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 5
+[15-Jan-2022 21:00:41 Asia/Kolkata] PHP Warning:  include(): Failed opening '../../env/database.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 5
+[15-Jan-2022 21:00:41 Asia/Kolkata] PHP Warning:  include(../../env/constants.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 6
+[15-Jan-2022 21:00:41 Asia/Kolkata] PHP Warning:  include(../../env/constants.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 6
+[15-Jan-2022 21:00:41 Asia/Kolkata] PHP Warning:  include(): Failed opening '../../env/constants.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 6
+[15-Jan-2022 21:00:41 Asia/Kolkata] PHP Warning:  include(../../env/functions.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 7
+[15-Jan-2022 21:00:41 Asia/Kolkata] PHP Warning:  include(../../env/functions.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 7
+[15-Jan-2022 21:00:41 Asia/Kolkata] PHP Warning:  include(): Failed opening '../../env/functions.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 7
+[15-Jan-2022 21:00:41 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function get_safe_value() in /home/dynamict/public_html/learn/t/back/teacher_login.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 9
+[15-Jan-2022 22:36:50 Asia/Kolkata] PHP Warning:  include(../../env/database.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 5
+[15-Jan-2022 22:36:50 Asia/Kolkata] PHP Warning:  include(../../env/database.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 5
+[15-Jan-2022 22:36:50 Asia/Kolkata] PHP Warning:  include(): Failed opening '../../env/database.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 5
+[15-Jan-2022 22:36:50 Asia/Kolkata] PHP Warning:  include(../../env/constants.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 6
+[15-Jan-2022 22:36:50 Asia/Kolkata] PHP Warning:  include(../../env/constants.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 6
+[15-Jan-2022 22:36:50 Asia/Kolkata] PHP Warning:  include(): Failed opening '../../env/constants.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 6
+[15-Jan-2022 22:36:50 Asia/Kolkata] PHP Warning:  include(../../env/functions.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 7
+[15-Jan-2022 22:36:50 Asia/Kolkata] PHP Warning:  include(../../env/functions.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 7
+[15-Jan-2022 22:36:50 Asia/Kolkata] PHP Warning:  include(): Failed opening '../../env/functions.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 7
+[15-Jan-2022 22:36:50 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function get_safe_value() in /home/dynamict/public_html/learn/t/back/teacher_login.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 9
+[15-Jan-2022 22:36:53 Asia/Kolkata] PHP Warning:  include(../../env/database.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 5
+[15-Jan-2022 22:36:53 Asia/Kolkata] PHP Warning:  include(../../env/database.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 5
+[15-Jan-2022 22:36:53 Asia/Kolkata] PHP Warning:  include(): Failed opening '../../env/database.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 5
+[15-Jan-2022 22:36:53 Asia/Kolkata] PHP Warning:  include(../../env/constants.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 6
+[15-Jan-2022 22:36:53 Asia/Kolkata] PHP Warning:  include(../../env/constants.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 6
+[15-Jan-2022 22:36:53 Asia/Kolkata] PHP Warning:  include(): Failed opening '../../env/constants.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 6
+[15-Jan-2022 22:36:53 Asia/Kolkata] PHP Warning:  include(../../env/functions.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 7
+[15-Jan-2022 22:36:53 Asia/Kolkata] PHP Warning:  include(../../env/functions.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 7
+[15-Jan-2022 22:36:53 Asia/Kolkata] PHP Warning:  include(): Failed opening '../../env/functions.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 7
+[15-Jan-2022 22:36:53 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function get_safe_value() in /home/dynamict/public_html/learn/t/back/teacher_login.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 9
+[15-Jan-2022 22:36:55 Asia/Kolkata] PHP Warning:  include(../../env/database.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 5
+[15-Jan-2022 22:36:55 Asia/Kolkata] PHP Warning:  include(../../env/database.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 5
+[15-Jan-2022 22:36:55 Asia/Kolkata] PHP Warning:  include(): Failed opening '../../env/database.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 5
+[15-Jan-2022 22:36:55 Asia/Kolkata] PHP Warning:  include(../../env/constants.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 6
+[15-Jan-2022 22:36:55 Asia/Kolkata] PHP Warning:  include(../../env/constants.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 6
+[15-Jan-2022 22:36:55 Asia/Kolkata] PHP Warning:  include(): Failed opening '../../env/constants.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 6
+[15-Jan-2022 22:36:55 Asia/Kolkata] PHP Warning:  include(../../env/functions.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 7
+[15-Jan-2022 22:36:55 Asia/Kolkata] PHP Warning:  include(../../env/functions.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 7
+[15-Jan-2022 22:36:55 Asia/Kolkata] PHP Warning:  include(): Failed opening '../../env/functions.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 7
+[15-Jan-2022 22:36:55 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function get_safe_value() in /home/dynamict/public_html/learn/t/back/teacher_login.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 9
+[16-Jan-2022 18:01:29 Asia/Kolkata] PHP Warning:  include(../../env/database.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 5
+[16-Jan-2022 18:01:29 Asia/Kolkata] PHP Warning:  include(../../env/database.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 5
+[16-Jan-2022 18:01:29 Asia/Kolkata] PHP Warning:  include(): Failed opening '../../env/database.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 5
+[16-Jan-2022 18:01:29 Asia/Kolkata] PHP Warning:  include(../../env/constants.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 6
+[16-Jan-2022 18:01:29 Asia/Kolkata] PHP Warning:  include(../../env/constants.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 6
+[16-Jan-2022 18:01:29 Asia/Kolkata] PHP Warning:  include(): Failed opening '../../env/constants.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 6
+[16-Jan-2022 18:01:29 Asia/Kolkata] PHP Warning:  include(../../env/functions.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 7
+[16-Jan-2022 18:01:29 Asia/Kolkata] PHP Warning:  include(../../env/functions.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 7
+[16-Jan-2022 18:01:29 Asia/Kolkata] PHP Warning:  include(): Failed opening '../../env/functions.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 7
+[16-Jan-2022 18:01:29 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function get_safe_value() in /home/dynamict/public_html/learn/t/back/teacher_login.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 9
+[16-Jan-2022 18:01:49 Asia/Kolkata] PHP Warning:  include(../../env/database.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 5
+[16-Jan-2022 18:01:49 Asia/Kolkata] PHP Warning:  include(../../env/database.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 5
+[16-Jan-2022 18:01:49 Asia/Kolkata] PHP Warning:  include(): Failed opening '../../env/database.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 5
+[16-Jan-2022 18:01:49 Asia/Kolkata] PHP Warning:  include(../../env/constants.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 6
+[16-Jan-2022 18:01:49 Asia/Kolkata] PHP Warning:  include(../../env/constants.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 6
+[16-Jan-2022 18:01:49 Asia/Kolkata] PHP Warning:  include(): Failed opening '../../env/constants.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 6
+[16-Jan-2022 18:01:49 Asia/Kolkata] PHP Warning:  include(../../env/functions.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 7
+[16-Jan-2022 18:01:49 Asia/Kolkata] PHP Warning:  include(../../env/functions.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 7
+[16-Jan-2022 18:01:49 Asia/Kolkata] PHP Warning:  include(): Failed opening '../../env/functions.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 7
+[16-Jan-2022 18:01:49 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function get_safe_value() in /home/dynamict/public_html/learn/t/back/teacher_login.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 9
+[16-Jan-2022 18:01:50 Asia/Kolkata] PHP Warning:  include(../../env/database.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 5
+[16-Jan-2022 18:01:50 Asia/Kolkata] PHP Warning:  include(../../env/database.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 5
+[16-Jan-2022 18:01:50 Asia/Kolkata] PHP Warning:  include(): Failed opening '../../env/database.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 5
+[16-Jan-2022 18:01:50 Asia/Kolkata] PHP Warning:  include(../../env/constants.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 6
+[16-Jan-2022 18:01:50 Asia/Kolkata] PHP Warning:  include(../../env/constants.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 6
+[16-Jan-2022 18:01:50 Asia/Kolkata] PHP Warning:  include(): Failed opening '../../env/constants.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 6
+[16-Jan-2022 18:01:50 Asia/Kolkata] PHP Warning:  include(../../env/functions.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 7
+[16-Jan-2022 18:01:50 Asia/Kolkata] PHP Warning:  include(../../env/functions.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 7
+[16-Jan-2022 18:01:50 Asia/Kolkata] PHP Warning:  include(): Failed opening '../../env/functions.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 7
+[16-Jan-2022 18:01:50 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function get_safe_value() in /home/dynamict/public_html/learn/t/back/teacher_login.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 9
+[16-Jan-2022 18:31:01 Asia/Kolkata] PHP Warning:  include(../../env/database.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 5
+[16-Jan-2022 18:31:01 Asia/Kolkata] PHP Warning:  include(../../env/database.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 5
+[16-Jan-2022 18:31:01 Asia/Kolkata] PHP Warning:  include(): Failed opening '../../env/database.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 5
+[16-Jan-2022 18:31:01 Asia/Kolkata] PHP Warning:  include(../../env/constants.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 6
+[16-Jan-2022 18:31:01 Asia/Kolkata] PHP Warning:  include(../../env/constants.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 6
+[16-Jan-2022 18:31:01 Asia/Kolkata] PHP Warning:  include(): Failed opening '../../env/constants.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 6
+[16-Jan-2022 18:31:01 Asia/Kolkata] PHP Warning:  include(../../env/functions.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 7
+[16-Jan-2022 18:31:01 Asia/Kolkata] PHP Warning:  include(../../env/functions.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 7
+[16-Jan-2022 18:31:01 Asia/Kolkata] PHP Warning:  include(): Failed opening '../../env/functions.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 7
+[16-Jan-2022 18:31:01 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function get_safe_value() in /home/dynamict/public_html/learn/t/back/teacher_login.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 9
+[16-Jan-2022 18:31:02 Asia/Kolkata] PHP Warning:  include(../../env/database.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 5
+[16-Jan-2022 18:31:02 Asia/Kolkata] PHP Warning:  include(../../env/database.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 5
+[16-Jan-2022 18:31:02 Asia/Kolkata] PHP Warning:  include(): Failed opening '../../env/database.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 5
+[16-Jan-2022 18:31:02 Asia/Kolkata] PHP Warning:  include(../../env/constants.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 6
+[16-Jan-2022 18:31:02 Asia/Kolkata] PHP Warning:  include(../../env/constants.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 6
+[16-Jan-2022 18:31:02 Asia/Kolkata] PHP Warning:  include(): Failed opening '../../env/constants.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 6
+[16-Jan-2022 18:31:02 Asia/Kolkata] PHP Warning:  include(../../env/functions.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 7
+[16-Jan-2022 18:31:02 Asia/Kolkata] PHP Warning:  include(../../env/functions.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 7
+[16-Jan-2022 18:31:02 Asia/Kolkata] PHP Warning:  include(): Failed opening '../../env/functions.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 7
+[16-Jan-2022 18:31:02 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function get_safe_value() in /home/dynamict/public_html/learn/t/back/teacher_login.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 9
+[16-Jan-2022 18:31:05 Asia/Kolkata] PHP Warning:  include(../../env/database.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 5
+[16-Jan-2022 18:31:05 Asia/Kolkata] PHP Warning:  include(../../env/database.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 5
+[16-Jan-2022 18:31:05 Asia/Kolkata] PHP Warning:  include(): Failed opening '../../env/database.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 5
+[16-Jan-2022 18:31:05 Asia/Kolkata] PHP Warning:  include(../../env/constants.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 6
+[16-Jan-2022 18:31:05 Asia/Kolkata] PHP Warning:  include(../../env/constants.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 6
+[16-Jan-2022 18:31:05 Asia/Kolkata] PHP Warning:  include(): Failed opening '../../env/constants.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 6
+[16-Jan-2022 18:31:05 Asia/Kolkata] PHP Warning:  include(../../env/functions.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 7
+[16-Jan-2022 18:31:05 Asia/Kolkata] PHP Warning:  include(../../env/functions.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 7
+[16-Jan-2022 18:31:05 Asia/Kolkata] PHP Warning:  include(): Failed opening '../../env/functions.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 7
+[16-Jan-2022 18:31:05 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function get_safe_value() in /home/dynamict/public_html/learn/t/back/teacher_login.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 9
+[17-Jan-2022 07:02:13 Asia/Kolkata] PHP Warning:  include(../../env/database.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 5
+[17-Jan-2022 07:02:13 Asia/Kolkata] PHP Warning:  include(../../env/database.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 5
+[17-Jan-2022 07:02:13 Asia/Kolkata] PHP Warning:  include(): Failed opening '../../env/database.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 5
+[17-Jan-2022 07:02:13 Asia/Kolkata] PHP Warning:  include(../../env/constants.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 6
+[17-Jan-2022 07:02:13 Asia/Kolkata] PHP Warning:  include(../../env/constants.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 6
+[17-Jan-2022 07:02:13 Asia/Kolkata] PHP Warning:  include(): Failed opening '../../env/constants.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 6
+[17-Jan-2022 07:02:13 Asia/Kolkata] PHP Warning:  include(../../env/functions.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 7
+[17-Jan-2022 07:02:13 Asia/Kolkata] PHP Warning:  include(../../env/functions.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 7
+[17-Jan-2022 07:02:13 Asia/Kolkata] PHP Warning:  include(): Failed opening '../../env/functions.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 7
+[17-Jan-2022 07:02:13 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function get_safe_value() in /home/dynamict/public_html/learn/t/back/teacher_login.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 9
+[17-Jan-2022 07:02:14 Asia/Kolkata] PHP Warning:  include(../../env/database.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 5
+[17-Jan-2022 07:02:14 Asia/Kolkata] PHP Warning:  include(../../env/database.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 5
+[17-Jan-2022 07:02:14 Asia/Kolkata] PHP Warning:  include(): Failed opening '../../env/database.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 5
+[17-Jan-2022 07:02:14 Asia/Kolkata] PHP Warning:  include(../../env/constants.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 6
+[17-Jan-2022 07:02:14 Asia/Kolkata] PHP Warning:  include(../../env/constants.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 6
+[17-Jan-2022 07:02:14 Asia/Kolkata] PHP Warning:  include(): Failed opening '../../env/constants.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 6
+[17-Jan-2022 07:02:14 Asia/Kolkata] PHP Warning:  include(../../env/functions.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 7
+[17-Jan-2022 07:02:14 Asia/Kolkata] PHP Warning:  include(../../env/functions.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 7
+[17-Jan-2022 07:02:14 Asia/Kolkata] PHP Warning:  include(): Failed opening '../../env/functions.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 7
+[17-Jan-2022 07:02:14 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function get_safe_value() in /home/dynamict/public_html/learn/t/back/teacher_login.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 9
+[17-Jan-2022 07:02:15 Asia/Kolkata] PHP Warning:  include(../../env/database.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 5
+[17-Jan-2022 07:02:15 Asia/Kolkata] PHP Warning:  include(../../env/database.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 5
+[17-Jan-2022 07:02:15 Asia/Kolkata] PHP Warning:  include(): Failed opening '../../env/database.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 5
+[17-Jan-2022 07:02:15 Asia/Kolkata] PHP Warning:  include(../../env/constants.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 6
+[17-Jan-2022 07:02:15 Asia/Kolkata] PHP Warning:  include(../../env/constants.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 6
+[17-Jan-2022 07:02:15 Asia/Kolkata] PHP Warning:  include(): Failed opening '../../env/constants.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 6
+[17-Jan-2022 07:02:15 Asia/Kolkata] PHP Warning:  include(../../env/functions.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 7
+[17-Jan-2022 07:02:15 Asia/Kolkata] PHP Warning:  include(../../env/functions.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 7
+[17-Jan-2022 07:02:15 Asia/Kolkata] PHP Warning:  include(): Failed opening '../../env/functions.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 7
+[17-Jan-2022 07:02:15 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function get_safe_value() in /home/dynamict/public_html/learn/t/back/teacher_login.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 9
+[17-Jan-2022 08:20:15 Asia/Kolkata] PHP Warning:  include(../../env/database.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 5
+[17-Jan-2022 08:20:15 Asia/Kolkata] PHP Warning:  include(../../env/database.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 5
+[17-Jan-2022 08:20:15 Asia/Kolkata] PHP Warning:  include(): Failed opening '../../env/database.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 5
+[17-Jan-2022 08:20:15 Asia/Kolkata] PHP Warning:  include(../../env/constants.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 6
+[17-Jan-2022 08:20:15 Asia/Kolkata] PHP Warning:  include(../../env/constants.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 6
+[17-Jan-2022 08:20:15 Asia/Kolkata] PHP Warning:  include(): Failed opening '../../env/constants.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 6
+[17-Jan-2022 08:20:15 Asia/Kolkata] PHP Warning:  include(../../env/functions.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 7
+[17-Jan-2022 08:20:15 Asia/Kolkata] PHP Warning:  include(../../env/functions.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 7
+[17-Jan-2022 08:20:15 Asia/Kolkata] PHP Warning:  include(): Failed opening '../../env/functions.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 7
+[17-Jan-2022 08:20:15 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function get_safe_value() in /home/dynamict/public_html/learn/t/back/teacher_login.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 9
+[17-Jan-2022 08:22:36 Asia/Kolkata] PHP Warning:  include(../../env/database.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 5
+[17-Jan-2022 08:22:36 Asia/Kolkata] PHP Warning:  include(../../env/database.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 5
+[17-Jan-2022 08:22:36 Asia/Kolkata] PHP Warning:  include(): Failed opening '../../env/database.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 5
+[17-Jan-2022 08:22:36 Asia/Kolkata] PHP Warning:  include(../../env/constants.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 6
+[17-Jan-2022 08:22:36 Asia/Kolkata] PHP Warning:  include(../../env/constants.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 6
+[17-Jan-2022 08:22:36 Asia/Kolkata] PHP Warning:  include(): Failed opening '../../env/constants.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 6
+[17-Jan-2022 08:22:36 Asia/Kolkata] PHP Warning:  include(../../env/functions.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 7
+[17-Jan-2022 08:22:36 Asia/Kolkata] PHP Warning:  include(../../env/functions.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 7
+[17-Jan-2022 08:22:36 Asia/Kolkata] PHP Warning:  include(): Failed opening '../../env/functions.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 7
+[17-Jan-2022 08:22:36 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function get_safe_value() in /home/dynamict/public_html/learn/t/back/teacher_login.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 9
+[17-Jan-2022 08:35:44 Asia/Kolkata] PHP Warning:  include(../../env/database.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 5
+[17-Jan-2022 08:35:44 Asia/Kolkata] PHP Warning:  include(../../env/database.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 5
+[17-Jan-2022 08:35:44 Asia/Kolkata] PHP Warning:  include(): Failed opening '../../env/database.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 5
+[17-Jan-2022 08:35:44 Asia/Kolkata] PHP Warning:  include(../../env/constants.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 6
+[17-Jan-2022 08:35:44 Asia/Kolkata] PHP Warning:  include(../../env/constants.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 6
+[17-Jan-2022 08:35:44 Asia/Kolkata] PHP Warning:  include(): Failed opening '../../env/constants.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 6
+[17-Jan-2022 08:35:44 Asia/Kolkata] PHP Warning:  include(../../env/functions.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 7
+[17-Jan-2022 08:35:44 Asia/Kolkata] PHP Warning:  include(../../env/functions.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 7
+[17-Jan-2022 08:35:44 Asia/Kolkata] PHP Warning:  include(): Failed opening '../../env/functions.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 7
+[17-Jan-2022 08:35:44 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function get_safe_value() in /home/dynamict/public_html/learn/t/back/teacher_login.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dynamict/public_html/learn/t/back/teacher_login.php on line 9

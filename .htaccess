@@ -1,0 +1,56 @@
+# Options +FollowSymlinks
+Options -Indexes
+RewriteEngine On
+
+
+# #BEGIN increasing PHP values
+# php_value max_input_time 600
+# php_value upload_max_filesize 1024M
+# php_value max_execution_time 600
+# php_value memory_limit 1024M
+# php_value post_max_size 15000M
+
+# #Cloudy24
+# php_value max_file_uploads 50
+# php_value memory_limit 512M
+# # #END increasing PHP value
+
+# php_value session.gc_maxlifetime 86400000
+
+# LimitRequestBody 1024000
+
+# RewriteCond %{HTTPS} off 
+# RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME}.php -f
+RewriteRule ^(.*)$ $1.php
+
+# # Return 404 if original request is .php
+RewriteCond %{THE_REQUEST} "^[^ ]* .*?\.php[? ].*$"
+RewriteRule .* - [L,R=404]
+
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-l
+
+
+RewriteRule ^admin/student-profile/([a-z0-9]+)$ admin/students-profile?id=$1 [NC,L]
+RewriteRule ^admin/teacher-profile/([a-z0-9]+)$ admin/teachers-profile?id=$1 [NC,L]
+RewriteRule ^admin/notifications/delete/([0-9]+)$ admin/notifications/delete?id=$1 [NC,L]
+RewriteRule ^admin/classes-outline/([0-9]+)$ admin/class-outline?class_id=$1 [NC,L]
+RewriteRule ^admin/quizzes/([0-9]+)$ admin/quiz-layout?quiz_id=$1 [NC,L]
+
+# RewriteRule ^courses/([A-Za-z]+)$ course?course_url=$1 [NC,L]
+
+RewriteRule ^students/classes/v/([0-9]+)$ students/class?class_id=$1 [NC,L]
+RewriteRule ^students/quizzes/q/([0-9]+)$ students/quiz-attend?quiz_id=$1 [NC,L] 
+RewriteRule ^students/quizzes/r/([0-9]+)$ students/results?quiz_id=$1 [NC,L]
+RewriteRule ^students/pdfs/([0-9]+)$ students/pdf?purchase=$1 [NC,L]
+
+ERRORDOCUMENT 404 /404.php
+ERRORDOCUMENT 403 /403.php
+
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_URI} (.+)/$
+RewriteRule ^ %1 [L,R=301]

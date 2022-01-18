@@ -1,0 +1,4 @@
+[03-Jan-2022 09:48:55 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/dynamict/public_html/accounts/back/accounts_manager.php on line 22
+[03-Jan-2022 10:04:28 Asia/Kolkata] PHP Warning:  require(../vendor/phpmailer/phpmailer/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/dynamict/public_html/accounts/back/accounts_manager.php on line 3
+[03-Jan-2022 10:04:28 Asia/Kolkata] PHP Warning:  require(../vendor/phpmailer/phpmailer/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/dynamict/public_html/accounts/back/accounts_manager.php on line 3
+[03-Jan-2022 10:04:28 Asia/Kolkata] PHP Fatal error:  require(): Failed opening required '../vendor/phpmailer/phpmailer/PHPMailerAutoload.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/dynamict/public_html/accounts/back/accounts_manager.php on line 3

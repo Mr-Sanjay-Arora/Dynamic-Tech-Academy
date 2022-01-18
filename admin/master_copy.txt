@@ -1,0 +1,48 @@
+<hr class="hr-light mt-5">
+                                        
+<form method="post" id="upload_pdf" enctype="multipart/form-data">
+    <input class="file-input-pdf" type="file" name="pdf" accept="application/pdf">
+    <i class="fas fa-cloud-upload-alt"></i>
+    <!--<p>Browse File to Upload</p>-->
+    <select class="form-select custom-select custom-selection mt-3" name="category">
+    <option value="" selected>Choose Course Category</option>
+    <?php
+
+        $query = mysqli_query($con, "select * from course_master ORDER BY id");
+        $check=mysqli_num_rows($query);
+        if($check>0){	
+            while($row = mysqli_fetch_array($query)){
+    ?>
+            <option value="<?php echo $row["course_id"]?>"><?php echo $row["course_name"]?></option>
+        
+        <?php } }?>
+</select>
+<button class="btn btn-primary btn-detail mt-4" type="submit">Submit PDF</button>
+</form>
+<section class="progress-area"></section>
+<section class="uploaded-area"></section>
+
+<hr class="hr-light mt-5">
+
+<h5 class="mt-5">Upload Videos</h5>
+<hr class="hr-light">
+<form method="post" id="upload_videos" enctype="multipart/form-data">
+    <input class="file-input-video" type="file" name="video" accept="video/mp4,video/x-m4v,video/*">
+    <i class="fas fa-cloud-upload-alt"></i>
+    <select class="form-select custom-select custom-selection mt-3" name="category">
+    <option value="" selected>Choose Course Category</option>
+    <?php
+
+        $query = mysqli_query($con, "select * from course_master ORDER BY id");
+        $check=mysqli_num_rows($query);
+        if($check>0){	
+            while($row = mysqli_fetch_array($query)){
+    ?>
+            <option value="<?php echo $row["course_id"]?>"><?php echo $row["course_name"]?></option>
+        
+        <?php } }?>
+</select>
+<button class="btn btn-primary btn-detail mt-4" type="submit">Submit Video</button>
+</form>
+<section class="progress-area progress-video-area"></section>
+<section class="uploaded-video-area"></section>

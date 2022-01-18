@@ -1,0 +1,55 @@
+[29-Nov-2021 20:12:06 Asia/Kolkata] PHP Notice:  Undefined index: self in /home/dynamict/public_html/learn/s/back/password_manager.php on line 19
+[01-Dec-2021 23:06:20 Asia/Kolkata] PHP Notice:  Undefined variable: query in /home/dynamict/public_html/learn/s/back/attendance_manager.php on line 15
+[01-Dec-2021 23:06:20 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/dynamict/public_html/learn/s/back/attendance_manager.php on line 15
+[28-Dec-2021 22:55:42 Asia/Kolkata] PHP Warning:  include(../../env/database.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/s/back/query_manager.php on line 4
+[28-Dec-2021 22:55:42 Asia/Kolkata] PHP Warning:  include(../../env/database.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/s/back/query_manager.php on line 4
+[28-Dec-2021 22:55:42 Asia/Kolkata] PHP Warning:  include(): Failed opening '../../env/database.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/dynamict/public_html/learn/s/back/query_manager.php on line 4
+[28-Dec-2021 22:55:42 Asia/Kolkata] PHP Warning:  include(../../env/constants.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/s/back/query_manager.php on line 5
+[28-Dec-2021 22:55:42 Asia/Kolkata] PHP Warning:  include(../../env/constants.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/s/back/query_manager.php on line 5
+[28-Dec-2021 22:55:42 Asia/Kolkata] PHP Warning:  include(): Failed opening '../../env/constants.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/dynamict/public_html/learn/s/back/query_manager.php on line 5
+[28-Dec-2021 22:55:42 Asia/Kolkata] PHP Warning:  include(../../env/functions.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/s/back/query_manager.php on line 6
+[28-Dec-2021 22:55:42 Asia/Kolkata] PHP Warning:  include(../../env/functions.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/s/back/query_manager.php on line 6
+[28-Dec-2021 22:55:42 Asia/Kolkata] PHP Warning:  include(): Failed opening '../../env/functions.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/dynamict/public_html/learn/s/back/query_manager.php on line 6
+[28-Dec-2021 22:55:42 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function get_safe_value() in /home/dynamict/public_html/learn/s/back/query_manager.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dynamict/public_html/learn/s/back/query_manager.php on line 8
+[28-Dec-2021 22:57:24 Asia/Kolkata] PHP Warning:  include(../../env/database.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/s/back/query_manager.php on line 4
+[28-Dec-2021 22:57:24 Asia/Kolkata] PHP Warning:  include(../../env/database.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/s/back/query_manager.php on line 4
+[28-Dec-2021 22:57:24 Asia/Kolkata] PHP Warning:  include(): Failed opening '../../env/database.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/dynamict/public_html/learn/s/back/query_manager.php on line 4
+[28-Dec-2021 22:57:24 Asia/Kolkata] PHP Warning:  include(../../env/constants.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/s/back/query_manager.php on line 5
+[28-Dec-2021 22:57:24 Asia/Kolkata] PHP Warning:  include(../../env/constants.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/s/back/query_manager.php on line 5
+[28-Dec-2021 22:57:24 Asia/Kolkata] PHP Warning:  include(): Failed opening '../../env/constants.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/dynamict/public_html/learn/s/back/query_manager.php on line 5
+[28-Dec-2021 22:57:24 Asia/Kolkata] PHP Warning:  include(../../env/functions.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/s/back/query_manager.php on line 6
+[28-Dec-2021 22:57:24 Asia/Kolkata] PHP Warning:  include(../../env/functions.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/s/back/query_manager.php on line 6
+[28-Dec-2021 22:57:24 Asia/Kolkata] PHP Warning:  include(): Failed opening '../../env/functions.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/dynamict/public_html/learn/s/back/query_manager.php on line 6
+[28-Dec-2021 22:57:24 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function get_safe_value() in /home/dynamict/public_html/learn/s/back/query_manager.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dynamict/public_html/learn/s/back/query_manager.php on line 8
+[29-Dec-2021 07:18:41 Asia/Kolkata] PHP Warning:  include(../../env/database.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/s/back/query_manager.php on line 4
+[29-Dec-2021 07:18:41 Asia/Kolkata] PHP Warning:  include(../../env/database.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/s/back/query_manager.php on line 4
+[29-Dec-2021 07:18:41 Asia/Kolkata] PHP Warning:  include(): Failed opening '../../env/database.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/dynamict/public_html/learn/s/back/query_manager.php on line 4
+[29-Dec-2021 07:18:41 Asia/Kolkata] PHP Warning:  include(../../env/constants.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/s/back/query_manager.php on line 5
+[29-Dec-2021 07:18:41 Asia/Kolkata] PHP Warning:  include(../../env/constants.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/s/back/query_manager.php on line 5
+[29-Dec-2021 07:18:41 Asia/Kolkata] PHP Warning:  include(): Failed opening '../../env/constants.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/dynamict/public_html/learn/s/back/query_manager.php on line 5
+[29-Dec-2021 07:18:41 Asia/Kolkata] PHP Warning:  include(../../env/functions.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/s/back/query_manager.php on line 6
+[29-Dec-2021 07:18:41 Asia/Kolkata] PHP Warning:  include(../../env/functions.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/s/back/query_manager.php on line 6
+[29-Dec-2021 07:18:41 Asia/Kolkata] PHP Warning:  include(): Failed opening '../../env/functions.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/dynamict/public_html/learn/s/back/query_manager.php on line 6
+[29-Dec-2021 07:18:41 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function get_safe_value() in /home/dynamict/public_html/learn/s/back/query_manager.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dynamict/public_html/learn/s/back/query_manager.php on line 8
+[29-Dec-2021 07:19:05 Asia/Kolkata] PHP Warning:  include(../../env/database.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/s/back/query_manager.php on line 4
+[29-Dec-2021 07:19:05 Asia/Kolkata] PHP Warning:  include(../../env/database.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/s/back/query_manager.php on line 4
+[29-Dec-2021 07:19:05 Asia/Kolkata] PHP Warning:  include(): Failed opening '../../env/database.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/dynamict/public_html/learn/s/back/query_manager.php on line 4
+[29-Dec-2021 07:19:05 Asia/Kolkata] PHP Warning:  include(../../env/constants.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/s/back/query_manager.php on line 5
+[29-Dec-2021 07:19:05 Asia/Kolkata] PHP Warning:  include(../../env/constants.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/s/back/query_manager.php on line 5
+[29-Dec-2021 07:19:05 Asia/Kolkata] PHP Warning:  include(): Failed opening '../../env/constants.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/dynamict/public_html/learn/s/back/query_manager.php on line 5
+[29-Dec-2021 07:19:05 Asia/Kolkata] PHP Warning:  include(../../env/functions.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/s/back/query_manager.php on line 6
+[29-Dec-2021 07:19:05 Asia/Kolkata] PHP Warning:  include(../../env/functions.php): failed to open stream: No such file or directory in /home/dynamict/public_html/learn/s/back/query_manager.php on line 6
+[29-Dec-2021 07:19:05 Asia/Kolkata] PHP Warning:  include(): Failed opening '../../env/functions.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/dynamict/public_html/learn/s/back/query_manager.php on line 6
+[29-Dec-2021 07:19:05 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function get_safe_value() in /home/dynamict/public_html/learn/s/back/query_manager.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dynamict/public_html/learn/s/back/query_manager.php on line 8

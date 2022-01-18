@@ -1,0 +1,2 @@
+[07-Jan-2022 10:08:13 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/dynamict/public_html/helper/course_enquiry_manager.php on line 21
+[07-Jan-2022 10:10:42 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/dynamict/public_html/helper/course_enquiry_manager.php on line 21

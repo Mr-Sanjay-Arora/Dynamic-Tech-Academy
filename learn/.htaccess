@@ -1,0 +1,41 @@
+# Options +FollowSymlinks
+Options -Indexes
+RewriteEngine On
+
+php_value upload_max_filesize  2048M
+php_value post_max_size 2049M
+
+RewriteCond %{HTTPS} off 
+RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME}.php -f
+RewriteRule ^(.*)$ $1.php
+
+# # Return 404 if original request is .php
+RewriteCond %{THE_REQUEST} "^[^ ]* .*?\.php[? ].*$"
+RewriteRule .* - [L,R=404]
+
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-l
+
+
+RewriteRule ^admin/student-profile/([a-z0-9]+)$ admin/students-profile?id=$1 [NC,L]
+RewriteRule ^admin/teacher-profile/([a-z0-9]+)$ admin/teachers-profile?id=$1 [NC,L]
+RewriteRule ^admin/notifications/delete/([0-9]+)$ admin/notifications/delete?id=$1 [NC,L]
+RewriteRule ^admin/classes-outline/([0-9]+)$ admin/class-outline?class_id=$1 [NC,L]
+
+
+
+RewriteRule ^s/classes/v/([0-9]+)$ s/class?class_id=$1 [NC,L]
+RewriteRule ^s/quizzes/q/([0-9]+)$ s/quiz-attend?quiz_id=$1 [NC,L] 
+RewriteRule ^s/quizzes/r/([0-9]+)$ s/results?quiz_id=$1 [NC,L]
+RewriteRule ^s/pdfs/([0-9]+)$ s/pdf?purchase=$1 [NC,L]
+
+ERRORDOCUMENT 404 /404.php
+ERRORDOCUMENT 403 /403.php
+
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_URI} (.+)/$
+RewriteRule ^ %1 [L,R=301]

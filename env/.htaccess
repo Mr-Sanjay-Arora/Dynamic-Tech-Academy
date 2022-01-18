@@ -1,0 +1,29 @@
+# # Options +FollowSymlinks
+# Options -Indexes
+# RewriteEngine On
+
+# DirectoryIndex /login.php
+
+# RewriteCond %{REQUEST_FILENAME} !-d
+# RewriteCond %{REQUEST_FILENAME}.php -f
+# RewriteRule ^(.*)$ $1.php
+
+# # # Return 404 if original request is .php
+# RewriteCond %{THE_REQUEST} "^[^ ]* .*?\.php[? ].*$"
+# RewriteRule .* - [L,R=404]
+
+# RewriteCond %{REQUEST_FILENAME} !-d
+# RewriteCond %{REQUEST_FILENAME} !-f
+# RewriteCond %{REQUEST_FILENAME} !-l
+# # RewriteRule ^orders/([a-z0-9]+)$ orders/view?purchase=$1 [NC,L]
+# # RewriteRule ^inventory/([a-z0-9]+)$ inventory/view?challan=$1 [NC,L]
+# # RewriteRule ^challan/([0-9a-zA-Z]+)$ challan/view?challan=$1 [NC,L]
+# # RewriteRule ^employee/([0-9]+)/([0-9]+)/([0-9a-zA-Z]+)$ employee/view?month=$1&year=$2&employee=$3 [NC,L]
+# # RewriteRule ^orders/rm/([0-9a-zA-Z-_.+!*'(),]+)$ orders/po-viewer?order=$1 [NC,L]
+
+# ERRORDOCUMENT 404 /404.php
+# ERRORDOCUMENT 403 /403.php
+
+# RewriteCond %{REQUEST_FILENAME} !-d
+# RewriteCond %{REQUEST_URI} (.+)/$
+# RewriteRule ^ %1 [L,R=301]
